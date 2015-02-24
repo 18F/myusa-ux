@@ -1,4 +1,7 @@
 # Quick summary
+
+30-minute remote interviews with 6 federal employees using InVision Liveshare. Script [here](https://myusa.hackpad.com/Template-Onsite-User-Interview-Questions-y08pqBL0EvA)
+
 Please see raw notes as [comments on InVision project](https://projects.invisionapp.com/d/main#/console/2318574/62062701/comments). This summary is just for the purposes of closing out the issue. 
 
 ## Split into audiences makes sense
@@ -33,9 +36,6 @@ Please see raw notes as [comments on InVision project](https://projects.invision
 * Services
 * Publish
 * Access
-
-# What we did
-30-minute remote interviews with 6 federal employees
 
 # What we tested
 ![front page](https://cloud.githubusercontent.com/assets/10067318/6340677/95c5de62-bb76-11e4-8118-aa77361629b9.png)
