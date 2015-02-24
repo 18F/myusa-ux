@@ -39,4 +39,3 @@ Please see raw notes as [comments on InVision project](https://projects.invision
 
 # What we tested
 ![front page](https://cloud.githubusercontent.com/assets/10067318/6340677/95c5de62-bb76-11e4-8118-aa77361629b9.png)
-
