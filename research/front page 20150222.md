@@ -7,6 +7,11 @@ Please see raw notes as [comments on InVision project](https://projects.invision
 ## Split into audiences makes sense
 "The way that’s broken down into the audience for agencies and developers [makes sense]. I think that those two audience groups are going to be doing very different tasks." - Joanne
 
+### Though fixed top menu might be confusing
+When scrolling down, one evaluator read the page as organized into vertical columns by "home," "developer," "agency" instead of organized horizontally
+
+![Screenshot of scroll with fixed top menu](https://github.com/18F/myusa-ux/blob/master/images/Screen%20Shot%202015-02-25%20at%203.36.42%20PM.png)
+
 ## Central image/text is visually appealing but not informative
 "It’s a big banner, it’s a pretty picture. But now I have to hunt to find something that’s my task. Because my task — is my task to Connect to MyUSA, right? Is there a task?" - Joanne
 
