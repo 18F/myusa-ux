@@ -30,7 +30,7 @@ When scrolling down, one evaluator read the page as organized into vertical colu
 "It kinda sounds like they have an online tool or service to facilitate that process of getting assistance from GSA to build other services within our own agency" - Sarah 
 "It's for APIs, right?" - M.
 
-## Developers want more information before signing up
+## <a name="more-info"> Developers want more information before signing up</a>
 
 ![screen shot of For Developers section](https://cloud.githubusercontent.com/assets/10067318/6340583/68df8214-bb75-11e4-8005-888b67cc7f85.png)
 
