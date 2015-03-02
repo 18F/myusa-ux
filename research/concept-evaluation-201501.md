@@ -1,11 +1,16 @@
+# Current sign-on practices
+
+
 # Reactions to federated identity schemes
-* While government employees want single sign-on, they have qualms about commercial providers*
-* 
-## Are government employees interested in using a single sign-on across government websites? #497 
+While government employees want single sign-on, they have qualms about commercial providers
+ 
+### Are government employees interested in using a single sign-on across government websites? #497 
+The short answer: yes. 
+See: 
 
-## How do government employees react to signing in with companies that are associated with a specific business function (such as Verizon or Paypal)? #522 
+### How do government employees react to signing in with companies that are associated with a specific business function (such as Verizon or Paypal)? #522 
 
-## How do government employees react to signing in using social network logins (e.g. Google)? #521 
+### How do government employees react to signing in using social network logins (e.g. Google)? #521 
 
 # Security and trust
 *Participants trusted that MyUSA was secure and authentic, 
