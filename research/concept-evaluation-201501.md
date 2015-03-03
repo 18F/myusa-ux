@@ -2,7 +2,7 @@
 
 ## What we did
 + Document how federal employees manage user account information 
-+ Evaluate two different design directions using a scenario-based demo 
++ Evaluate two different design directions using a [scenario-based demo](http://invis.io/V2240PKAW)
 
 45 minute semi-structured interviews at participants’ workstations
 
