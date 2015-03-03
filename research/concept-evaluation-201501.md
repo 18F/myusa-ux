@@ -114,8 +114,10 @@ P02 expected a “seal” or a “warning” to assure himself that this is a le
 > P01, HHS
 
 #### How do users respond to auth mechanisms that don't use passwords?
+
 With worry.
-1) Making a password signals that one is creating an account. Without a password, some participants did not realize they were actually making an account. Being signed into the application after clicking a link surprised them.
+
++ Making a password signals that one is creating an account. Without a password, some participants did not realize they were actually making an account. Being signed into the application after clicking a link surprised them.
 
 ![screenshot from the demo we tested](https://github.com/18F/myusa-ux/blob/master/images/Screen%20Shot%202014-12-19%20at%202.54.49%20PM.png?raw=true)
 
@@ -123,7 +125,7 @@ With worry.
 
 > P04, GSA
 
-2) Passwords signal security. See below.
++ Passwords signal security. See below.
 
 > "How can you possibly go from domain address"...to login? "Not enough authentication of me to be logged in. It's hard to imagine that just my email is enough. It gets me nervous. Anyone could know my email"
 
