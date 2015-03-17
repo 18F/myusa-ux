@@ -20,6 +20,8 @@
 * Remote or in-person
 * Includes retrospective design crit
 
+*TBD: Do we use the live site or a lightly interactive InVision clickthrough? That will change the script a bit.*
+
 ## Script
 
 ### Make a new account for Midas
