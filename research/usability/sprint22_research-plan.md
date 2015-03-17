@@ -1,20 +1,18 @@
 # Account management screens research plan
 
 
-
 ## Goals
-* Identify account management problems
-* Get more data about problems with authorization screen
+* Get a first-take evaluation of the account management screens
+* Get more data about the known usability problems with authorization screen
 
-### Questions
+### Questions to answer
 
 1. Should we remove options from permissions screen?
-2. Can people successfully change their profile information?
+2. What screens should we address first?
 
 ### Metrics
 
-* Whether the problems prevent any of the participants from completing the tasks
-* If more than half report that they would not use MyUSA under everyday circumstances
+* Whether problems prevent any of the participants from completing the tasks
 
 ## Methods
 * 45 min interview with 18F-ers who are unfamiliar with the MyUSA web interface
@@ -22,7 +20,7 @@
 * Remote or in-person
 * Includes retrospective design crit
 
-# Script
+## Script
 
 ### Make a new account for Midas
 **Scenario** You're going to make a new account for Open Opportunities so that you can get people to help 18F.
@@ -59,3 +57,9 @@
 
 1. Can they find 2FA under "Settings"?
 2. How do they feel about having 2FA settings next to Delete settings?
+
+## Workshop 
+**Okay, having gone through the two main functions of this service, how might you improve...**
+
+1. Sign-in?
+2. Account management?
