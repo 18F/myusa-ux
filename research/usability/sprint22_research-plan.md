@@ -1,14 +1,15 @@
 # Account management screens research plan
 
+## Goals / Questions
+Goals | Questions
+:----- | :---------
+Evaluate account management screens | Can people edit their profile data?
+ | Can they figure out which applications they have authorized?
+ | Can they delete an account?
+Prioritize what to fix | What problems are most severe?
 
-## Goals
-* Get a first-take evaluation of the account management screens
-* Get more data about the known usability problems with authorization screen
-
-### Questions to answer
-
-1. Should we remove options from permissions screen?
-2. What screens should we address first?
+## Background
+We haven't done any testing of the account creation side of MyUSA.
 
 ### Metrics
 
@@ -22,9 +23,11 @@
 
 *TBD: Do we use the live site or a lightly interactive InVision clickthrough? That will change the script a bit.*
 
+*TBD: Should we test account creation, too?*
+
 ## Script
 
-### Make a new account for Midas
+### Make a new account for Midas [TBD, probably]
 **Scenario** You're going to make a new account for Open Opportunities so that you can get people to help 18F.
 
 **Now please sign in** 
