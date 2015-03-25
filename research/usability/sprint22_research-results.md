@@ -1,5 +1,6 @@
+# Midas + MyUSA in-house usability tests
 # Sign-in and Account management 
-#### Midas + MyUSA in-house usability tests
+
 **March 23, 2015**
 
 **conducted by @esgoodman** 
@@ -18,30 +19,30 @@ See [research plan](sprint22_research-plan.md) for script
 * Do _not_ authorize MyUSA to share your last name with Midas
 
 2) After logging in, go to alpha.my.usa.gov
-   
-   * Change your last name
-   * Add 2FA
-   * Optional: Change notification preferences
-   
+
+* Change your last name
+* Add 2FA
+* Optional: Change notification preferences
+ 
 3) Any other suggestions?
 
 ## General feedback
 ### Visual design is appealing
-P01: Site looks good and behaves pretty well.
+P01: *Site looks good and behaves pretty well.*
 
-P05: Site's really clean -- except for account settings. This is definitely a workable template to grow things further.  
+P05: *Site's really clean -- except for account settings. This is definitely a workable template to grow things further.*  
 
-P04: The site is "really really pretty" 
+P04: The site is *really really pretty* 
 
 ### We need to better educate visitors
 
 #### About why we are asking for information in the profile site
-P04: ***I need more purpose around this dashboard, more call to action** when I'm first logging into it, to get me to engage with it.*
+P04: _**I need more purpose around this dashboard, more call to action** when I'm first logging into it, to get me to engage with it._
 
 #### About why the features of MyUSA are important
-P05: *You're missing a lot of education about what single sign-on is and what it means and what 2FA is and what it means.* 
+P05: _You're missing a lot of education about what single sign-on is and what it means and what 2FA is and what it means._ 
 
-P03: *I think that this is labelled MyUSA and has to do with the government might raise some eyebrows and make them more conscious of signing in in other ways. It's **worth being explicit about storing information and who can obtain it.***
+P03: _I think that this is labelled MyUSA and has to do with the government might raise some eyebrows and make them more conscious of signing in in other ways. It's **worth being explicit about storing information and who can obtain it.**_
 
 **Suggestion** Look at onboarding technique of Intercom.io (P04)
 
@@ -54,50 +55,52 @@ Most participants immediately found the sign-up link. One took a few seconds.
 
 ### Choice 1: LinkedIn or MyUSA?
 #### LinkedIn prompts some concern
-P03: ***I'm wondering why LinkedIn is first if it's a government website.** Typically when I see pages that allow social sign-in I see more choices than LinkedIn. **That makes me think that this is a page for people who are trying to network or that is corporate.***
+P03: _**I'm wondering why LinkedIn is first if it's a government website.** Typically when I see pages that allow social sign-in I see more choices than LinkedIn. **That makes me think that this is a page for people who are trying to network or that is corporate.**_
 
-P05: ***I don't really like linking things.** It's just more aggregate data -- unless I know what it's being used for, I'm suspicious of that. **I don't like knowing that LinkedIn knows where I go.***
+P05: _**I don't really like linking things.** It's just more aggregate data -- unless I know what it's being used for, I'm suspicious of that. **I don't like knowing that LinkedIn knows where I go.**_
 
-P02: *If there were other services, I'd always choose MyUSA. **LinkedIn seems to spam me more than help me. I get a lot of notifications about things.***
+P02: _If there were other services, I'd always choose MyUSA. **LinkedIn seems to spam me more than help me. I get a lot of notifications about things.**_
 
 #### But familiarity can breed comfort
 P01: My **first thought would be to click on LinkedIn** because I don't know what MyUSA is
 
-**Suggestion** ***A little shared icon** that isn't obtrusive that would signal the common sign-on identity across websites -- maybe a little tag along the side?* (P05)
+**Suggestion** _**A little shared icon** that isn't obtrusive that would signal the common sign-on identity across websites -- maybe a little tag along the side?_ (P05)
 
 #### Minor usability problems
 
 ##### Email/password forms look like they apply to both of the top two options 
 This is especially a problem because other studies have shown non-technical people are prone to entering IdP unames and pwords in those fields]
 
-  * **Simple design fix** Make a big line between the OAuth options and the site account option, or number them
+**Simple design fix** Make a big line between the OAuth options and the site account option, or number them
 
 ### Choice 2: MyUSA: Google or email?
 
 Everyone was familiar with the options. Google explicitly gives people the choice to select a personal or work account. 
 
 #### Google also prompts concern
-P01: *I'm not sure I want to connect with Google.  **The Google+ sign caught in my mind. It's a social network.** I don't want those worlds [personal Google Plus and a government site] connected.* 
+P01: _I'm not sure I want to connect with Google.  **The Google+ sign caught in my mind. It's a social network.** I don't want those worlds [personal Google Plus and a government site] connected._
 
-P03: ***Connect with Google raises some privacy concerns.** I try not to connect things with Google, I try to connect with my email.* 
+P03: _**Connect with Google raises some privacy concerns.** I try not to connect things with Google, I try to connect with my email._ 
 
-**CONTENT SUGGESTION** *Be very explicit about how the information is being stored and how it's NOT being used to construct this massive profile of you is helpful. Mitigating risk of people thinking the government is looming over them.* (P03) 
+**CONTENT suggestion** _Be very explicit about how the information is being stored and how it's NOT being used to construct this massive profile of you is helpful. Mitigating risk of people thinking the government is looming over them._ (P03) 
 
-**CONTENT SUGGESTION** Tell people in advance what kind of data MyUSA will request from Google (P05)
+**CONTENT suggestion** Tell people in advance what kind of data MyUSA will request from Google (P05)
 
-#### Minor problem
-* **Redundant-looking auth screens** If you sign in with Google, the permission screen reiterates the same choices as the Google auth screen -- except this time you get a choice. It's not precisely redundant but it _looks_ redundant.
-  * **Simple fix** Don't include a sign-in with Google choice in MyUSA...though that makes extra work for people who like using Google
+#### Minor problems
+##### Redundant-looking auth screens
+If you sign in with Google, the permission screen reiterates the same choices as the Google auth screen -- except this time you get a choice. It's not precisely redundant but it _looks_ redundant.
+**Simple fix** Don't include a sign-in with Google choice in MyUSA...though that makes extra work for people who like using Google
 
 ### Transition to email client and back
 
 None of the participants had any real concerns or difficulties. 
 
-#### Minor problem
+#### Minor problems
 
-* **Having redundant links is confusing** P01 was "confused" by the two links and thought he might have made a mistake by clicking the first one. 
+##### Having redundant links is confusing 
+P01 was "confused" by the two links and thought he might have made a mistake by clicking the first one. 
 
-  * **Simple content fix** Remove one link
+**Simple content fix** Remove one link
  
 ### MyUSA auth screen: editing permissions
 All of the participants were eventually able to edit data in the auth screen. Two participants had no problems. Three hesitated or made errors.
@@ -111,46 +114,44 @@ P01: _I'm a little bit confused. I don't really understand what [requesting perm
 
 ##### Many participants did not realize that the "headlines" are collapsed sections
 Which means that they don't realize they can change what data is being shared. 
-  * P04: *Had you not asked me to do that, I would not have thought [changing my name in the auth screen] WAS an option*
+P04: *Had you not asked me to do that, I would not have thought [changing my name in the auth screen] WAS an option*
 
 Two participants assumed at first that they needed to return to the profile to edit data
 
-P01 assumed that the headlines were options to choose between
+P01 assumed that the headlines were either/or options
 
 This supports findings from the [comparative concept evaluation](link goes here!) we did with GSA/HHS employees back in January
 
-* **Simple fix** make headings open by default
+**Simple fix** make headings open by default
 
 ##### Assumption of no important functionality inside the collapsed sections
-  * P02: *Usually you click the chevron arrow to get more information about WHY they need to know that information.*
+P02: *Usually you click the chevron arrow to get more information about WHY they need to know that information.*
 
 ##### Once collapsed sections were open, participants didn't realize they could uncheck the boxes
-   * P05: *I don't know what the check marks are for. What would it mean if I [unclicked] it? Seems like there should be a button to block all access if so.*
-   * **Simple fix** Make the checkboxes more visually prominent
-  
+P05: *I don't know what the check marks are for. What would it mean if I [unclicked] it? Seems like there should be a button to block all access if so.*
+**Simple fix** Make the checkboxes more visually prominent
+
 #### Participants are uncertain what access they are granting
 Uncertainty about what MyUSA is asking for sparked anxiety ina few participants.  
 
 ##### What data will be shared?
-  * P03: ***I don't even know what my basic information would be** in my government account, besides my email and my name.*
-  * P01: ***MyUSA data -- I don't know what that means.***
+P03: _**I don't even know what my basic information would be** in my government account, besides my email and my name._
+P01: _**MyUSA data -- I don't know what that means.**_
 
 ##### What will MyUSA do with that data?
-  * P01: ***I didn't understand what it was requesting permission for.** That was the only time I was like "this is not like the other things I've done before". **I felt a little lost** in what I was trying to do.*
-  * P01: *With a social network, it would be asking for permission to tweet on my behalf. **It's a little bit worrying.***
+P01: _**I didn't understand what it was requesting permission for.** That was the only time I was like "this is not like the other things I've done before". **I felt a little lost** in what I was trying to do._
+P01: _With a social network, it would be asking for permission to tweet on my behalf. **It's a little bit worrying.**_
   
 #### Seeing permissions can be reassuring
-* P02: *Based on my interaction with MyUSA, that tells me that these services need to tell me what information they're going to use and each service -- that's not a shared set of permissions across all these services. If I'm sharing with the IRS all of my tax information, I know that the information that I share with them won't be available to every user on Midas. **I don't necessarily trust that other third parties accessing the data I'm giving to the govenrment won't share that data around. And it's probably better to assume they will share it around.** Or use it for profit.*
+P02: *Based on my interaction with MyUSA, that tells me that these services need to tell me what information they're going to use and each service -- that's not a shared set of permissions across all these services. If I'm sharing with the IRS all of my tax information, I know that the information that I share with them won't be available to every user on Midas. **I don't necessarily trust that other third parties accessing the data I'm giving to the govenrment won't share that data around. And it's probably better to assume they will share it around.** Or use it for profit.*
 
 ## Visit alpha.my.usa.gov
 ### Existing landing page
 While evaluating the landing page was not a planned part of the test, participants inevitably had opinions about it. 
-
 #### Too little explanation of MyUSA's purpose
 We knew this already from the [landing page content evaluation](link here!). These findings reiterate it. 
 
-P01: ***What am I going to do with this? What's my purpose here?***
-
+P01: _**What am I going to do with this? What's my purpose here?**_
 
 P05: *MyUSA is code for single-sign on. [...] **I think of it as a portal.** That's partly because of the really pretty image behind. Like, here's the expanse of things you can do.*
 
@@ -226,8 +227,6 @@ P05 at first wasn't sure where to change his contact settings for Midas -- "I'd 
 P05: [on/off button] That's so cool. I love that. I click it, and you can see that the computer is doing something, so **I know that this setting did something.**
 
 P02: I kind of wonder what I'm going to get notified about. I guess applications could be authorized -- that seems kind of handy. **I like that from a CAN SPAM perspective.** 
-
-## Additional information
 
 
 # Big themes for design inspiration
