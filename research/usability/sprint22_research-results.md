@@ -10,7 +10,8 @@
   * 3 developers
   * 2 content/communications
   
-### Tasks/Questions
+### Tasks/Questions 
+See [research plan](sprint22_research-plan.md) for script 
 1) Sign up for a MyUSA account at Midas-dev
 
 * Use either Google or email/address
