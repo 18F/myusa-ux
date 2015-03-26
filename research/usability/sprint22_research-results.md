@@ -164,7 +164,12 @@ P02 likes that the placeholder doesn't go away when you click into the field.
 Two people wondered why the government needed all this information about them. 
 
 #### Question: How do we keep profiles up-to-date in the long term? 
-P03: People fill these things out and never update them. how do you get people to come back and update them as the parameters change [like marriage and kids] which might affect the applciations.
+P03: People fill these things out and never update them. how do you get people to come back and update them as the parameters change [like marriage and kids] which might affect the applications.
+ 
+##### Is the save button for profile data visible enough?
+Every participant found the correct page and field quickly. However, one person did not hit the save button the first time around.
+
+### Set up 2FA 
 
 #### Two-factor authentication is hard to find
 ##### The correct screen is not obvious
@@ -178,12 +183,6 @@ Two people had difficulty locating the controls for 2FA.
 Two people immediately found the 2FA controls on the screen. The other 3 got distracted by the big red "delete" button. 
 
 P05: _**This page seems really busy.** There's a lot of different things going -- red and yellow and blue. It doesn't seem very clean._
- 
-##### Is the save button for profile data visible enough?
-Every participant found the correct page and field quickly. However, one person did not hit the save button the first time around.
-
-### Set up 2FA 
-:heavy_exclamation_mark: **Suggestion:** do we need some microcontent (P05) on 2FA?
 
 #### Inconsistent labelling of 2FA functionality 
 One person found it confusing that the 2FA functionality is described as "Account recovery" _and- "Authentication" (P05). 
@@ -191,6 +190,8 @@ One person found it confusing that the 2FA functionality is described as "Accoun
 The issue to decide is, **Which one should it be?** 
 
 But everyone successfully completed the task, suggesting that the inconsistent labelling is a minor problem. 
+
+:heavy_exclamation_mark: **Suggestion:** do we need some microcontent (P05) on 2FA?
 
 #### Bugs
 ##### Edited profile data is not being changed in Midas
