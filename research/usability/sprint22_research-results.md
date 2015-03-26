@@ -4,6 +4,12 @@
 
 **March 23, 2015 | @esgoodman** 
 
+## tldr;
+
+### Hypotheses tested
+The app authorization screen is a sticking point in onboarding - TRUE!
+Transitioning to personal email and back does not cause problems - TRUE!
+Users are having trouble configuring 2FA in the account management site - ONLY KIND OF TRUE
 
 ## Methods
 ### Participants
