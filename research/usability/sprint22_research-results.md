@@ -1,9 +1,8 @@
 # Midas + MyUSA in-house usability tests
-# Sign-in and Account management 
 
-**March 23, 2015**
+## Sign-in and Account management 
 
-**conducted by @esgoodman** 
+**March 23, 2015 | @esgoodman** 
 
 
 ## Methods
