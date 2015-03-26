@@ -13,18 +13,19 @@
   
 ### Tasks/Questions 
 See [research plan](sprint22_research-plan.md) for script 
-1) Sign up for a MyUSA account at Midas-dev
+
+1. Sign up for a MyUSA account at Midas-dev
 
 * Use either Google or email/address
 * Do _not_ authorize MyUSA to share your last name with Midas
 
-2) After logging in, go to alpha.my.usa.gov
+2. After logging in, go to alpha.my.usa.gov
 
 * Change your last name
 * Add 2FA
 * Optional: Change notification preferences
  
-3) Any other suggestions?
+3. Any other suggestions?
 
 ## General feedback
 ### Visual design is appealing
@@ -44,10 +45,10 @@ P05: _You're missing a lot of education about what single sign-on is and what it
 
 P03: _I think that this is labelled MyUSA and has to do with the government might raise some eyebrows and make them more conscious of signing in in other ways. It's **worth being explicit about storing information and who can obtain it.**_
 
-**Suggestion** Look at onboarding technique of Intercom.io (P04)
+:heavy_exclamation_mark: **Suggestion** Look at onboarding technique of Intercom.io (P04)
 
 #### For developers
-**Suggestion** Having some examples of applications would be really helpful here [for developers]. (P03) 
+:heavy_exclamation_mark: **Suggestion** Having some examples of applications would be really helpful here [for developers]. (P03) 
 
 ## Sign in at Midas
 
@@ -64,14 +65,14 @@ P02: _If there were other services, I'd always choose MyUSA. **LinkedIn seems to
 #### But familiarity can breed comfort
 P01: My **first thought would be to click on LinkedIn** because I don't know what MyUSA is
 
-**Suggestion** _**A little shared icon** that isn't obtrusive that would signal the common sign-on identity across websites -- maybe a little tag along the side?_ (P05)
+:heavy_exclamation_mark: **Suggestion** _**A little shared icon** that isn't obtrusive that would signal the common sign-on identity across websites -- maybe a little tag along the side?_ (P05)
 
 #### Minor usability problems
 
 ##### Email/password forms look like they apply to both of the top two options 
-This is especially a problem because other studies have shown non-technical people are prone to entering IdP unames and pwords in those fields]
+This is especially a problem because other studies have shown non-technical people are prone to entering IdP unames and pwords in those fields.
 
-**Simple design fix** Make a big line between the OAuth options and the site account option, or number them
+:heavy_exclamation_mark: **Simple design fix** Make a big line between the OAuth options and the site account option, or number them
 
 ### Choice 2: MyUSA: Google or email?
 
@@ -82,14 +83,15 @@ P01: _I'm not sure I want to connect with Google.  **The Google+ sign caught in 
 
 P03: _**Connect with Google raises some privacy concerns.** I try not to connect things with Google, I try to connect with my email._ 
 
-**CONTENT suggestion** _Be very explicit about how the information is being stored and how it's NOT being used to construct this massive profile of you is helpful. Mitigating risk of people thinking the government is looming over them._ (P03) 
+:heavy_exclamation_mark: **CONTENT suggestion** _Be very explicit about how the information is being stored and how it's NOT being used to construct this massive profile of you is helpful. Mitigating risk of people thinking the government is looming over them._ (P03) 
 
-**CONTENT suggestion** Tell people in advance what kind of data MyUSA will request from Google (P05)
+:heavy_exclamation_mark: **CONTENT suggestion** Tell people in advance what kind of data MyUSA will request from Google (P05)
 
 #### Minor problems
 ##### Redundant-looking auth screens
 If you sign in with Google, the permission screen reiterates the same choices as the Google auth screen -- except this time you get a choice. It's not precisely redundant but it _looks_ redundant.
-**Simple fix** Don't include a sign-in with Google choice in MyUSA...though that makes extra work for people who like using Google
+
+:heavy_exclamation_mark: **Simple fix** Don't include a sign-in with Google choice in MyUSA...though that makes extra work for people who like using Google
 
 ### Transition to email client and back
 
@@ -122,7 +124,7 @@ P01 assumed that the headlines were either/or options
 
 This supports findings from the [comparative concept evaluation](link goes here!) we did with GSA/HHS employees back in January
 
-**Simple fix** make headings open by default
+:heavy_exclamation_mark: **Simple fix** make headings open by default
 
 ##### Assumption of no important functionality inside the collapsed sections
 P02: *Usually you click the chevron arrow to get more information about WHY they need to know that information.*
@@ -176,13 +178,13 @@ Two people had difficulty locating the controls for 2FA.
 ##### Once on the correct screen, people first see the delete functionality
 Two people immediately found the 2FA controls on the screen. The other 3 got distracted by the big red "delete" button. 
 
-P05: ***This page seems really busy.** There's a lot of different things going -- red and yellow and blue. It doesn't seem very clean.*
+P05: _**This page seems really busy.** There's a lot of different things going -- red and yellow and blue. It doesn't seem very clean._
  
 ##### Is the save button for profile data visible enough?
 Every participant found the correct page and field quickly. However, one person did not hit the save button the first time around.
 
 ### Set up 2FA 
-* **Suggestion:** do we need some microcontent (P05) on 2FA?
+:heavy_exclamation_mark: **Suggestion:** do we need some microcontent (P05) on 2FA?
 
 #### Inconsistent labelling of 2FA functionality 
 One person found it confusing that the 2FA functionality is described as "Account recovery" _and- "Authentication" (P05). 
@@ -207,9 +209,9 @@ P05 was surprised that he couldn't change data sharing permissions in the "permi
 
 P05: **"Permissions" means something I get to choose or configure live.** 
 
-**Question: Should we allow users to change permissions in the profile section?** As per privacy-by-design principles, it seems like we should
+:question: **Question: Should we allow users to change permissions in the profile section?** As per [privacy-by-design principles](https://www.privacybydesign.ca/index.php/about-pbd/7-foundational-principles/), it seems like we should.
 
-### Create application button is irrelevant but distracting 
+### Create application button distracts from core functions
 
 P02: **I don't know why I'd ever create an application, and the color makes it seem like it's very important for me to do that.**
 
@@ -231,16 +233,24 @@ P02: I kind of wonder what I'm going to get notified about. I guess applications
 
 # Big themes for design inspiration
 
-## Being given control is a welcome surprise
+## Having control is a welcome surprise
 
-I've now talked to about 24 people (mostly within the gov't) about what MyUSA does and how it works. 100% were surprised by the amount of control we give users.
+I've now talked to about 24 people (mostly within the gov't) about what MyUSA does and how it works. 100% were surprised by the amount of control we give users over  -- even though the authorization screen had major usability problems. 
 
-That being said, 
-Notifications
+:question: **Because having control is surprising, what kind of education/onboarding would help inform users of their options?**  
 
-Data sharing
-## Trust needs to be earned
+## Users are making snap decisions based on very little information
 
-Users making trust decisions on very little information
+LinkedIn or MyUSA? Email address or Google Auth?
 
-Reading a lot into small signals, like the presence of a G+ icon
+Users are making trust decisions on very little information. Participants often read a lot into small signals, as with the participant who got a little nervous about the presence of a G+ icon. 
+
+:question: **How do we help people make decisions quickly..but confidently?**  
+
+## Assume user distrust
+There's a lot of distrust of the behavior and motives of commercial providers as well as government.
+
+P02: _**I don't necessarily trust that other third parties accessing the data I'm giving to the government won't share that data around. And it's probably better to assume they will share it around.** Or use it for profit._
+
+:question: **How do we make sure MyUSA is behaving in a trustworthy way?**
+:question: **How do we communicate that we are trustworthy to distrustful users?**
