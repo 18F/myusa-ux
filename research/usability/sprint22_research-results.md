@@ -13,18 +13,18 @@
 ### Tasks/Questions 
 See [research plan](sprint22_research-plan.md) for script 
 
-1. Sign up for a MyUSA account at Midas-dev
+1) Sign up for a MyUSA account at Midas-dev
 
 * Use either Google or email/address
 * Do _not_ authorize MyUSA to share your last name with Midas
 
-2. After logging in, go to alpha.my.usa.gov
+2) After logging in, go to alpha.my.usa.gov
 
 * Change your last name
 * Add 2FA
 * Optional: Change notification preferences
  
-3. Any other suggestions?
+3) Any other suggestions?
 
 ## General feedback
 ### Visual design is appealing
