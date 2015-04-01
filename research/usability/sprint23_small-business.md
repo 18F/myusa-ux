@@ -4,26 +4,24 @@ MyUSA has a number of potential integrators serving small business owners. We ha
 
 # Goals and questions
 ## Describe participants' current frustrations with signing in to government websites
-### How are people managing on-going transactions with government agencies? What tools are they using? What workarounds? 
+### :question: How are people managing on-going transactions with government agencies? What tools are they using? What workarounds? 
   * making accounts and signing in
   * returning to an ongoing activity after a break
 
-### How interested are potential users in a shared sign-on service?
+### :question: How interested are potential users in a shared sign-on service?
 
 ## Explore public concerns over data sharing 
 We know from secondary research and previous research activities that there is significant concern about how commercial IdPs treat data from and about users. 
-* What concerns do people express about MyUSA?
-* How do do US users who are **not** government employees react to signing in with companies that are associated with a single service (such as Verizon or Paypal)?
-* How do US users who are **not** government employees react to signing in using sites that offer many services (e.g. Google)?
+### :question: What concerns do people express about MyUSA?
+### :question: How do do US users who are **not** government employees react to signing in with companies that are associated with a single service (such as Verizon or Paypal)?
+### :question: How do US users who are **not** government employees react to signing in using sites that offer many services (e.g. Google)?
 ## Evaluate redesigned account management site and authorization screen
 We redesigned the account management site and permissions screen based on previous studies. 
-### Have we made the sharing options more visible on the permissions screen?
+### :question:  Have we made the sharing options more visible on the permissions screen?
 On the account management site, 
-### Have we sufficiently explained what applications are?
-### Are notifications 
-
-
-### Have we improved the authorization screen significantly? 
+### :question:  Have we sufficiently explained what applications are?
+### :question:  What functionality needs to be added to notifications?  :fire:[less important probably should remove]
+### :question: Have we improved the authorization screen significantly? 
 Metrics might be:
     * Most participants notice the permissions
     * Most participants can edit permissions when asked
