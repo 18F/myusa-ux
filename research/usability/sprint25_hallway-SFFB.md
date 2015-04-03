@@ -1,4 +1,7 @@
-# Background
+# Sign in flow
+#### Hallway testing in SFFB
+
+## Background
 Based on earlier user research and secondary research on federated identity systems, we believe that:
 
 1. Single sign on would solve many existing security and usability problems in account management
@@ -18,14 +21,14 @@ Earlier research with the permissions screens surfaced these problems with the p
 
 Additionally, we found that having two links in the confirmation email was confusing. 
 
-# Goals
+## Goals
 The goals for this activity are:
 
 1. Help select a design direction for the permissions page
 2. Check whether our new content for the page resolves the comprehension problems with the old one
 3. Check whether the revisions to the email template make it easier to follow
 
-# What are we going to do?
+## What are we going to do?
 This is a comparative evaluation of reactions to three different permissions screen pages. 
 
 Big changes include:
@@ -35,31 +38,31 @@ Big changes include:
 3. Control UI: toggles vs checkboxes
 4. Layout: size/placement of secondary text
 
-## Goals and hypotheses
+### Goals and hypotheses
 
-Goals | Questions
------------- | -------------
-Help select a design direction for the permissions page | Does making the _reason_ the application is requesting the data more visually prominent help users notice that they can control what they are sharing?  
-Do users find it easier to turn sharing on/off with a toggle selector or a checkbox?
-Check whether our new content for the page resolves the comprehension problems with the old one | 
-| Are people reading the body text? Does the content in the body text explain what we're doing? 
-Test whether we've fixed email copy problems | One link is less confusing than two links
+Goals | Questions | Hypothesis
+:------------ | :-------------| :-------------
+Help select a design direction for the permissions page | Does making the _reason_ the application is requesting the data more visually prominent help users notice that they can control what they are sharing? | Yes   
+ | Do users find it easier to turn sharing on/off with a toggle selector or a checkbox? | Toggle
+Check whether our new content for the page resolves the comprehension problems with the old one | Are people reading the body text? | No.
+ | Does the content in the body text explain what we're doing? | Maybe. 
+  | Does reading that content affect their decision | No (as per Gov.UK and academic research)
+Test whether we've fixed email copy problems | Is one link less confusing than two links? | Yes
 
-## Find participants 
-### Desired profile
+### Find participants 
+#### Desired profile
 Federal employees, _not contractors or general public_
 
-### Recruiting
+#### Recruiting
 Impromptu.
 
-## Conduct interviews
-### Activities
+### Conduct interviews
+#### Activities
 * Walk through sign-in flow using Invision mockup (5-10 minutes)
-* 
 
-## Analysis
-## Reporting
-# When are we going to do it?
+### Analysis
+### Reporting
+## When are we going to do it?
 * Sprint 24: planning
 * Sprint 25 (Thursday): testing
 * Sprint 25 (Friday): wrap-up
