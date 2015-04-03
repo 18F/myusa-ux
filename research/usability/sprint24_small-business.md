@@ -1,4 +1,3 @@
-
 # Background
 MyUSA has a number of potential integrators serving small business owners. We haven't done any research with small business owners, nor have we done much research with potential users who are not on the coasts. However, we have done research internally (18F, other parts of GSA, and HHS). This study will focus on small business owners across the US, aiming for 6-9 participants (most likely remote, but potentially some in-person). 
 
@@ -27,8 +26,6 @@ Metrics might be:
     * Most participants can edit permissions when asked
     * Participants demonstrate comprehension of the choices they are making
 
-## Questions
-
 ## Intended outcomes
 * Customer journey maps
 * Immediate fixes
@@ -49,11 +46,9 @@ Aiming for maximum variety in region and business type, but trying to focus on s
 ### Activities
 #### Walk through 
 ## Analysis
-* Affinity diagram workshop 
-
-
+* Affinity diagram workshop with the team
 
 # When are we doing it?
-* Sprint 24: planning and recruitment
-* Sprint 25: research --> analysis
-* Sprint 26: analysis --> design
+* Sprint 24-25: planning and recruitment
+* Sprint 26: research --> analysis
+* Sprint 27: report --> design
