@@ -1,25 +1,49 @@
 # Background
-We now have clearance to do hallway testing at the San Francisco Federal Building (aka SFFB). I want to take advantage of this opportunity and do a round for Sprint 25. This also will give us a chance to road-test @mkhandekar's major revisions of the permissons screen before showing them to small business people.
+Based on earlier user research and secondary research on federated identity systems, we believe that:
 
-Earlier research with the permissions screens surfaced two main issues:
-* Participants didn't notice that they could control what they shared
-* Participants didn't notice that they could edit the information they were sharing
-* Much of the text was confusing
+1. Single sign on would solve many existing security and usability problems in account management
+2. However, there is widespread distrust of commercial single sign on systems over the sharing personal data and tracking online behavior 
+3. It is unclear whether that distrust will be mitigated by informing people about what data is being requested and giving them control over it
+4. However, we believe that doing so is the right thing to do. 
 
-# Goals and hypotheses
+**The permissions screen is the primary site of informed consent for and practical control over data sharing. So we want to make sure people can use it for those purposes.** 
 
-Goals | Hypotheses
------------- | -------------
-Pick a direction for the permissions page | Making the reason for requesting the data more visible will increase trust in the system 
-|  
-Test whether we've fixed email copy problems | One link is less confusing than two links
+We now have clearance to do hallway testing at the San Francisco Federal Building (aka SFFB). The SFFB hosts a number of different agencies whose employees will have varying tech levels, education, and so on. I want to take advantage of this opportunity and do a round for Sprint 25. This also will give us a chance to road-test @mkhandekar's major revisions of the permissons screen with a wide variety of people (albeit all federal employees) before showing them to small business people.
+
+Earlier research with the permissions screens surfaced these problems with the permissions page:
+
+* Participants didn't notice that they could control what MyUSA sent to the app
+* Participants didn't notice that they could edit the information being sent
+* Participants found the introduction to the page and the reasons for requesting data confusing
+
+Additionally, we found that having two links in the confirmation email was confusing. 
+
+# Goals
+The goals for this activity are:
+
+1. Help select a design direction for the permissions page
+2. Check whether our new content for the page resolves the comprehension problems with the old one
+3. Check whether the revisions to the email template make it easier to follow
 
 # What are we going to do?
-This is a comparative evaluation of reactions to three different permissions screen pages. We are evaluating:
+This is a comparative evaluation of reactions to three different permissions screen pages. 
 
-1. Whether making the _reason_ the application is requesting the data more visually prominent increases trust in the system
-2. Whether a toggle selector vs a checkbox to turn sharing off and on helps users practically control 
+Big changes include:
 
+1. Content: Top header 
+2. Content: Descriptive text
+3. Control UI: toggles vs checkboxes
+4. Layout: size/placement of secondary text
+
+## Goals and hypotheses
+
+Goals | Questions
+------------ | -------------
+Help select a design direction for the permissions page | Does making the _reason_ the application is requesting the data more visually prominent help users notice that they can control what they are sharing?  
+Do users find it easier to turn sharing on/off with a toggle selector or a checkbox?
+Check whether our new content for the page resolves the comprehension problems with the old one | 
+| Are people reading the body text? Does the content in the body text explain what we're doing? 
+Test whether we've fixed email copy problems | One link is less confusing than two links
 
 ## Find participants 
 ### Desired profile
