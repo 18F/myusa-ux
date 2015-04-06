@@ -9,7 +9,7 @@ Based on earlier user research and secondary research on federated identity syst
 3. It is unclear whether that distrust will be mitigated by informing people about what data is being requested and giving them control over it
 4. However, we believe that doing so is the right thing to do. 
 
-**The permissions screen is the primary site of informed consent for and practical control over data sharing. So we want to make sure people can use it for those purposes.** 
+:boom: **The permissions screen is the primary site of informed consent for and practical control over data sharing. So we want to make sure people can use it for those purposes.** 
 
 We now have clearance to do hallway testing at the San Francisco Federal Building (aka SFFB). The SFFB hosts a number of different agencies whose employees will have varying tech levels, education, and so on. I want to take advantage of this opportunity and do a round for Sprint 25. This also will give us a chance to road-test @mkhandekar's major revisions of the permissons screen with a wide variety of people (albeit all federal employees) before showing them to small business people.
 
