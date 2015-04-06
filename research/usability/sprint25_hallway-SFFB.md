@@ -34,19 +34,20 @@ This is a comparative evaluation of reactions to three different permissions scr
 Big changes include:
 
 1. Content: Top header 
-2. Content: Descriptive text
+2. Content: Page description
 3. Control UI: toggles vs checkboxes
-4. Layout: size/placement of secondary text
+4. Layout: size/placement of help text
+
 
 ### Goals and hypotheses
 
 Goals | Questions | Hypothesis
 :------------ | :-------------| :-------------
-Help select a design direction for the permissions page | Does making the _reason_ the application is requesting the data more visually prominent help users notice that they can control what they are sharing? | Yes   
+Help select a design direction for the permissions page | Does making the help text more visually prominent help users notice that they can control what they are sharing? | Yes
  | Do users find it easier to turn sharing on/off with a toggle selector or a checkbox? | Toggle
 Check whether our new content for the page resolves the comprehension problems with the old one | Are people reading the body text? | No.
  | Does the content in the body text explain what we're doing? | Maybe. 
-  | Does reading that content affect their decision | No (as per Gov.UK and academic research)
+ | Does reading that content affect their decision | No (as per Gov.UK and academic research)
 Test whether we've fixed email copy problems | Is one link less confusing than two links? | Yes
 
 ### Find participants 
@@ -58,7 +59,9 @@ Impromptu.
 
 ### Conduct interviews
 #### Activities
-* Walk through sign-in flow using Invision mockup (5-10 minutes)
+Walk through sign-in flow using Invision mockup (5-10 minutes)
+##### Task 1: Make an account
+##### Task 2: Sign in to another account 
 
 ### Analysis
 ### Reporting
