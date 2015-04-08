@@ -29,17 +29,25 @@ The goals for this activity are:
 3. Check whether the revisions to the email template make it easier to follow
 
 ## What are we going to do?
-This is a comparative evaluation of reactions to three different permissions screen pages. 
+This is a comparative evaluation of reactions to two different permissions screen pages. We are testing two different strategies.
 
+### Explanation-first 
+Makes the reasons for the request more visible
+![MyUSA permission screen mockup version 1](https://cloud.githubusercontent.com/assets/1598889/7028778/262a9f6c-dd26-11e4-90a9-7f37f29cf935.png)
+
+### Decision-first
+Makes the controls for sharing information more visible
+
+![MyUSA permission screen mockup version 2](https://cloud.githubusercontent.com/assets/10067318/7057037/3fdae86e-de06-11e4-911b-c7203e938c27.png)
+
+
+### Goals and hypotheses
 Big changes include:
 
 1. Content: Top header 
 2. Content: Page description
 3. Control UI: toggles vs checkboxes
 4. Layout: size/placement of help text
-
-
-### Goals and hypotheses
 
 Goals | Questions | Hypothesis
 :------------ | :-------------| :-------------
