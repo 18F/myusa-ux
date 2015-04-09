@@ -1,6 +1,26 @@
 # Sign in flow
 #### Hallway testing in SFFB
 
+:arrow_forward: Background
+:arrow_forward: Detailed results
+
+### Summary
+Big changes included:
+
+1. Content: Top header 
+2. Content: Page description
+3. Control UI: toggles vs checkboxes
+4. Layout: size/placement of help text
+
+Goals | Questions | Hypothesis | Results
+:------------ | :-------------| :------------- |:-------------
+Help select a design direction for the permissions page | Does making the help text more visually prominent help users notice that they can control what they are sharing? | Yes
+ | Do users find it easier to turn sharing on/off with a toggle selector or a checkbox? | Toggle
+Check whether our new content for the page resolves the comprehension problems with the old one | Are people reading the body text? | No.
+ | Does the content in the body text explain what we're doing? | Maybe. 
+ | Does reading that content affect their decision | No (as per Gov.UK and academic research)
+Test whether we've fixed email copy problems | Is one link less confusing than two links? | Yes
+
 ## Background
 Based on earlier user research and secondary research on federated identity systems, we believe that:
 
@@ -40,23 +60,7 @@ Makes the controls for sharing information more visible
 
 ![MyUSA permission screen mockup version 2](https://cloud.githubusercontent.com/assets/10067318/7057037/3fdae86e-de06-11e4-911b-c7203e938c27.png)
 
-
-### Goals and hypotheses
-Big changes include:
-
-1. Content: Top header 
-2. Content: Page description
-3. Control UI: toggles vs checkboxes
-4. Layout: size/placement of help text
-
-Goals | Questions | Hypothesis
-:------------ | :-------------| :-------------
-Help select a design direction for the permissions page | Does making the help text more visually prominent help users notice that they can control what they are sharing? | Yes
- | Do users find it easier to turn sharing on/off with a toggle selector or a checkbox? | Toggle
-Check whether our new content for the page resolves the comprehension problems with the old one | Are people reading the body text? | No.
- | Does the content in the body text explain what we're doing? | Maybe. 
- | Does reading that content affect their decision | No (as per Gov.UK and academic research)
-Test whether we've fixed email copy problems | Is one link less confusing than two links? | Yes
+## What we did
 
 ### Find participants 
 #### Desired profile
@@ -76,4 +80,4 @@ Walk through sign-in flow using Invision mockup (5-10 minutes)
 ## When are we going to do it?
 * Sprint 24: planning
 * Sprint 25 (Thursday): testing
-* Sprint 25 (Friday): wrap-up
+* Sprint 25 (Friday): more testing
