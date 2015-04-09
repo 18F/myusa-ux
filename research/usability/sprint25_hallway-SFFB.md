@@ -1,9 +1,10 @@
 # Sign in flow
 #### Hallway testing in SFFB
 
-:arrow_forward: Background
 
-:arrow_forward: Detailed results
+:arrow_forward: [Background](#background)
+
+:arrow_forward: [Detailed results](#analysis)
 
 ### Summary
 Big changes included:
@@ -81,15 +82,16 @@ This is just going to be a table with all the data because I don't think we have
 
  | Explanation-first | Decision-first |
 :----------- | :----------- | :----------- |
-*Initial screen* | | |
-*Enter email* | | |
-*Almost there* | | |
-*Email* | | |
-*Permission screen* | | |
-*Help text* | | |
+*Initial screen* |-no problems |-no problems |
+*Enter email* |- no problems | - no problems|
+*Almost there* |-no problems |- seems like phishing. "I'm doubting if this is real or not"|
+*Email* |- no problems |- "doubtful it's from the gov't," would ignore it unless told to use it by supervisor |
+*Permission screen* |- didn't know to scroll down, but understands that she can click| - what does this mean? share with whom? "sensitive" to sharing personal information, would probably hit cancel|
+*Help text* |- thinks that "your information will be shared with a database"| when told to click link, found the extra text "reassuring"|
 
-
-
+#### Overall
+- "not bad"
+- "This feels like 40 pages of clicks"...it's "teasing," like those websites that keep you clicking
 
 ### Reporting
 ## When are we going to do it?
