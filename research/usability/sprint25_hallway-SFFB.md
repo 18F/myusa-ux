@@ -2,6 +2,7 @@
 #### Hallway testing in SFFB
 
 :arrow_forward: Background
+
 :arrow_forward: Detailed results
 
 ### Summary
@@ -67,7 +68,7 @@ Makes the controls for sharing information more visible
 Federal employees, _not contractors or general public_
 
 #### Recruiting
-Impromptu.
+Intercept between hours of 11am - 2pm in the lobby hallway of SFFB
 
 ### Conduct interviews
 #### Activities
@@ -76,6 +77,20 @@ Walk through sign-in flow using Invision mockup (5-10 minutes)
 ##### Task 2: Sign in to another account 
 
 ### Analysis
+This is just going to be a table with all the data because I don't think we have enough data to really make it worth abstracting
+
+ | Explanation-first | Decision-first |
+:----------- | :----------- | :----------- |
+*Initial screen* | | |
+*Enter email* | | |
+*Almost there* | | |
+*Email* | | |
+*Permission screen* | | |
+*Help text* | | |
+
+
+
+
 ### Reporting
 ## When are we going to do it?
 * Sprint 24: planning
