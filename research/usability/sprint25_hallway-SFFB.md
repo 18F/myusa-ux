@@ -77,23 +77,23 @@ Walk through sign-in flow using Invision mockup (5-10 minutes)
 ##### Task 1: Make an account
 ##### Task 2: Sign in to another account 
 
-### Analysis
+### Data
 This is just going to be a table with all the data because I don't think we have enough data to really make it worth abstracting
 
 #### Overall
 - "not bad"
 - "This feels like 40 pages of clicks"...it's "teasing," like those websites that keep you clicking
 
+#### Per page
  | Explanation-first | Decision-first |
------------: | :----------- | :----------- |
-**Initial screen** |1. no problems <p> 2. can't find sign button <p> 3. no problems |1. no problems <p> 2. no problems|
-**Enter email** |1. no problems <p> 2. no data <p> 3. no problems| 1. no problems <p> 2. no problems|
-**Almost there** |1. no problems <p> 2. no problems <p> no problems |1. seems like phishing. "I'm doubting if this is real or not" <p> 2. no problems|
+:----------- | :----------- | :----------- |
+**Initial screen** | 1. no problems <p> 2. can't find sign button <p> 3. no problems | 1. no problems <p> 2. no problems|
+**Enter email** | 1. no problems <p> 2. no data <p> 3. no problems| 1. no problems <p> 2. no problems|
+**Almost there** | 1. no problems <p> 2. no problems <p> 3. no problems |1. seems like phishing. "I'm doubting if this is real or not" <p> 2. no problems|
 **Email** |1. no problems <p> 2. no problems <p> 3. wasn't sure what MyUSA is -- is it related to my benefits? |1. "doubtful it's from the gov't," would ignore it unless told to use it by supervisor <p> 2. no problems|
-**Permission screen** |1. didn't know to scroll down, but understands that she can click <p> 2. just wants to click through; doesn't want per-item permissions <p> 3. wasn't sure what was happening -- is this another email thing? |1. what does this mean? share with whom? "sensitive" to sharing personal information, would probably hit cancel <p> 2. no problems turning off name; |
+**Permission screen** |1. didn't know to scroll down, but understands that she can click <p> 2. just wants to click through; doesn't want per-item permissions <p> 3. wasn't sure what was happening -- is this another email thing? |1. what does this mean? share with whom? "sensitive" to sharing personal information, would probably hit cancel <p> 2. no problems turning off name|
 **Help text**|1. thinks that "your information will be shared with a database" <p> 3. not sure what "contact" means -- "what kind of info will it send me?" or what it will do with the information being shared [didn't see explanatory text?] | 1. when told to click link, found the extra text "reassuring" <p> 2. "doesn't know" what help text for names means; email help text means "keep me up to date"|
 
-### Reporting
 ## When are we going to do it?
 * Sprint 24: planning
 * Sprint 25 (Thursday): testing
