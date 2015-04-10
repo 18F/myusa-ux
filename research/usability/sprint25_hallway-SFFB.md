@@ -55,12 +55,13 @@ This is a comparative evaluation of reactions to two different permissions scree
 
 ### Explanation-first 
 Makes the reasons for the request more visible
-![MyUSA permission screen mockup version 1](https://cloud.githubusercontent.com/assets/1598889/7028778/262a9f6c-dd26-11e4-90a9-7f37f29cf935.png)
+
+<img src="https://cloud.githubusercontent.com/assets/1598889/7028778/262a9f6c-dd26-11e4-90a9-7f37f29cf935.png" width=300px>
 
 ### Decision-first
 Makes the controls for sharing information more visible
 
-![MyUSA permission screen mockup version 2](https://cloud.githubusercontent.com/assets/10067318/7057037/3fdae86e-de06-11e4-911b-c7203e938c27.png)
+<img src="https://cloud.githubusercontent.com/assets/10067318/7057037/3fdae86e-de06-11e4-911b-c7203e938c27.png" width=300px>
 
 ## What we did
 
@@ -69,13 +70,16 @@ Makes the controls for sharing information more visible
 Federal employees, _not contractors or general public_
 
 #### Recruiting
-Intercept between hours of 11am - 2pm in the lobby hallway of SFFB
+Intercept between hours of 11am - 2pm in the lobby hallway of SFFB (e.g. lunch rush). This is working...okay. 
 
 ### Conduct interviews
-#### Activities
-Walk through sign-in flow using Invision mockup (5-10 minutes)
-##### Task 1: Make an account
-##### Task 2: Sign in to another account 
+#### Tasks
+Walk through sign-in flow using Invision mockup (5 minutes)
+
+1. Find sign in button
+2. Get to email
+3. Edit permissions
+4. Explain what help text means
 
 ### Data
 This is just going to be a table with all the data because I don't think we have enough data to really make it worth abstracting
