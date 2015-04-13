@@ -1,5 +1,4 @@
-# Sign in flow
-#### Hallway testing in SFFB
+# Sign in flow : Hallway testing
 
 :arrow_forward: [Background](#background)
 
@@ -15,6 +14,16 @@ We varied
 3. Control UI: toggles vs checkboxes
 4. Layout: size/placement of help text
 
+#### Quick context 
+
+Goals | Questions | Hypothesis | Results
+:------------ | :-------------| :------------- |:-------------
+Help select a design direction for the permissions page | Does making the help text more visually prominent help users notice that they can control what they are sharing? | Yes | No. What helps is making the controls more prominent.
+ | Do users find it easier to turn sharing on/off with a toggle selector or a checkbox? | Toggle | It's a draw, with toggles easier by a hair. Certainly people noticed the toggles faster.
+Check whether our new content for the page resolves the comprehension problems with the old one | Are people reading the body text? | No | No.
+ | Does the content in the body text explain what we're doing? | Maybe | No. It's too unspecific about <p> (a) what MyUSA is. <p> (b) where the information is coming from. <p> (c) who is receiving the information |
+ | Does reading that content affect their decision | No (as per Gov.UK and academic research) | No because <p> (a) because some people had already made their decision and <p> (b) some found the content too unspecific to be informative 
+Test whether we've fixed email copy problems | Is one link less confusing than two links? | Yes | Yes - no one mentioned it as an issue |
 
 #### Themes
 ##### Disclosure dispositions
@@ -68,15 +77,6 @@ All of the participants could turn sharing on and off for specific items
 
 ###### :boom: Reduce scrolling on laptop screens
 Two of the five checkbox-condition participants either didn't know to scroll down or didn't realize what the page was for until scrolling down.
-
-Goals | Questions | Hypothesis | Results
-:------------ | :-------------| :------------- |:-------------
-Help select a design direction for the permissions page | Does making the help text more visually prominent help users notice that they can control what they are sharing? | Yes | No. What helps is making the controls more prominent.
- | Do users find it easier to turn sharing on/off with a toggle selector or a checkbox? | Toggle | It's a draw, with toggles easier by a hair. Certainly people noticed the toggles faster.
-Check whether our new content for the page resolves the comprehension problems with the old one | Are people reading the body text? | No | No.
- | Does the content in the body text explain what we're doing? | Maybe | No. It's too unspecific about <p> (a) what MyUSA is. <p> (b) where the information is coming from. <p> (c) who is receiving the information |
- | Does reading that content affect their decision | No (as per Gov.UK and academic research) | No because <p> (a) because some people had already made their decision and <p> (b) some found the content too unspecific to be informative 
-Test whether we've fixed email copy problems | Is one link less confusing than two links? | Yes | Yes - no one mentioned it as an issue |
 
 ## Background
 Based on earlier user research and secondary research on federated identity systems, we believe that:
