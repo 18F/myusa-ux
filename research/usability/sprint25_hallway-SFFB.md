@@ -7,20 +7,75 @@
 
 
 ### Summary
-Big changes included:
+
+We varied
 
 1. Content: Top header 
 2. Content: Page description
 3. Control UI: toggles vs checkboxes
 4. Layout: size/placement of help text
 
+
+#### Themes
+##### Disclosure dispositions
+Based on our research up to this date, it seems like we might want to design content around how people make decisions to share/not share information. There's a bunch of academic research suggesting that decisions about information sharing during single sign-on are based on prior experiences and predispositions, not so much the information offered by the service in the moment. 
+
+It may make sense to segment the audience for MyUSA into three different categories:
+* **Privacy protectors** people who minimized the amount of information they shared, which sometimes meant asking to cancel the entire transaction and sometimes meant asking if it was possible to share no information at all. Some privacy protectors read the text very carefully; others wanted to hit cancel at the first moment of suspicion.
+
+:speech_balloon: For example, one participant's response to the toggles was: _"Can I opt out?."_ Her first impulse was to hit "cancel." After reading the help text, she'd still hit "cancel." For her, the information is "not specific -- share information to whom? from this website? to other agencies?" 
+
+* **Rule followers** people who would use MyUSA if their employer (the US gov't) asked them to, even if it made them a little uncomfortable.
+
+Another participant told me that he didn't read top text at first before deciding whether or not to share. He'd just hit "allow" because he'd been sent there by Benefeds. 
+
+:speech_balloon: _"I'm on this page, that's what I'm here to do."_
+
+* **Convenience optimizers** people who wanted to minimize the work of sign-in, even if that meant taking actions that made them a little uncomfortable. That would be the one participant who volunteered that she didn't want per-item permissions at all. Another person said, 
+
+:speech_balloon: _""This feels like 40 pages of clicks"...it's "teasing," like those websites that keep you clicking."_
+
+The following themes explain why I think those divisions make sense.   
+
+##### More information is not always reassuring
+For one participant, seeing the help text was "reassuring". For another, it "opened up a whole can of worms," suggesting new questions and suspicions he hadn't previously had. Questions included:
+* Why does Benefeds want to email me?
+* How often will Benefeds email me?
+
+###### Fears of junk mail
+![screen shot 2015-04-13 at 2 51 40 pm](https://cloud.githubusercontent.com/assets/10067318/7126248/ae8fb5d4-e1ec-11e4-965e-3afb45c19f86.png)
+
+Participants in both conditions were suspicious about being contacted. One said that leaving the "Share email" option on would mean 
+
+:speech_balloon: _"I will probably get a lot of junk mail. I don't see why they'd contact me."_
+
+###### Suspicions about "sharing"
+Participants in both conditions were taken aback by the word "sharing"
+After clicking the "how does this help me?" link, one said:
+
+:speech_balloon: _"After reading the help text, my first impulse is to hit 'cancel.' " The information is "not specific: share information to whom? from this website? to other agencies?"_
+
+![screen shot 2015-04-13 at 3 00 15 pm](https://cloud.githubusercontent.com/assets/10067318/7126483/7127f808-e1ee-11e4-81f1-c6bae5b27dc9.png)
+
+Another said, about the intro text on the toggles permission page, _"what does this mean? share with whom?"_
+
+##### Basic usability
+###### :white_check_mark: Email copy problems are resolved
+None of the participants had questions about how to go to the email inbox and which link to click
+
+###### :white_check_mark: Making data controls visible solves initial usability problems
+All of the participants could turn sharing on and off for specific items
+
+###### :boom: Reduce scrolling on laptop screens
+Two of the five checkbox-condition participants either didn't know to scroll down or didn't realize what the page was for until scrolling down.
+
 Goals | Questions | Hypothesis | Results
 :------------ | :-------------| :------------- |:-------------
 Help select a design direction for the permissions page | Does making the help text more visually prominent help users notice that they can control what they are sharing? | Yes | No. What helps is making the controls more prominent.
  | Do users find it easier to turn sharing on/off with a toggle selector or a checkbox? | Toggle | It's a draw, with toggles easier by a hair. Certainly people noticed the toggles faster.
 Check whether our new content for the page resolves the comprehension problems with the old one | Are people reading the body text? | No | No.
- | Does the content in the body text explain what we're doing? | Maybe | No. It's too unspecific about (a) what MyUSA is. (b) where the information is coming from. (c) who is receiving the information |
- | Does reading that content affect their decision | No (as per Gov.UK and academic research) | No because (a) because some people had already made their decision and (b) some found the content too unspecific to be informative 
+ | Does the content in the body text explain what we're doing? | Maybe | No. It's too unspecific about <p> (a) what MyUSA is. <p> (b) where the information is coming from. <p> (c) who is receiving the information |
+ | Does reading that content affect their decision | No (as per Gov.UK and academic research) | No because <p> (a) because some people had already made their decision and <p> (b) some found the content too unspecific to be informative 
 Test whether we've fixed email copy problems | Is one link less confusing than two links? | Yes | Yes - no one mentioned it as an issue |
 
 ## Background
