@@ -8,12 +8,9 @@ How likely is someone to read help text before clicking a button?
 How concerned is someone about data leakage across social and organizational boundaries?
 
 ## Behavioral tendencies
-### Privacy defensive
-### Convenience optimizing
-### Authority respectful
 
 |&nbsp;|Action | Analysis |
 |:----------|:----------|:----------|
-|**Worried**| "I didn't know what this was so I clicked cancel" | "I find this help text reassuring" |
-|**Unconcerned**| "Whatever. I just click allow" | "I wondered about those checkboxes, but this is for my job, right?"|
+|**Worried**| _Privacy defensive_ <br> "I didn't know what this was so I clicked cancel" | _Privacy anxious_ <br> "I find this help text reassuring" |
+|**Unconcerned**| _Convenience optimizing_ <br> "Whatever. I'll just click allow" | _Authority deferential_ <br> "I wondered about those checkboxes, but this is for my job, right?"|
  
