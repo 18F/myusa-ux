@@ -1,10 +1,14 @@
 I want to start thinking about different ways that people approach the data-sharing controls in MyUSA.
 
 ## Important variables
-### **action orientation** action <---> analysis
+### **action orientation** 
+action <---> analysis
+
 How likely is someone to read help text before clicking a button?
 
-### **boundary sensitivity** worried  <---> unconcerned
+### **boundary sensitivity** 
+worried  <---> unconcerned
+
 How concerned is someone about data leakage across social and organizational boundaries?
 
 ## Behavioral tendencies
