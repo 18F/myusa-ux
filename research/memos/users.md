@@ -12,8 +12,8 @@ How concerned is someone about data leakage across social and organizational bou
 ### Convenience optimizing
 ### Authority respectful
 
- |Action | Analysis
- |:------- | :-------
- **Worried**  | "I didn't know what this was so I clicked cancel" | "I find this help text reassuring" 
- **Unconcerned** | "Whatever. I just click allow" | "I wondered about those checkboxes, but this is for my job, right?"
+|&nbsp;|Action | Analysis |
+|:----------|:----------|:----------|
+|**Worried**| "I didn't know what this was so I clicked cancel" | "I find this help text reassuring" |
+|**Unconcerned**| "Whatever. I just click allow" | "I wondered about those checkboxes, but this is for my job, right?"|
  
