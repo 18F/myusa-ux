@@ -7,22 +7,29 @@
 
 ### Summary
 
-We varied
+We compared two versions of the permissions page that varied: 
 
 1. Content: Top header 
-2. Content: Page description
+2. Content: Introductory paragraph describing the page
+3. Content: Help microcopy
 3. Control UI: toggles vs checkboxes
 4. Layout: size/placement of help text
 
-#### Quick context 
+##### Updates on problems identified in last research go-round
 
+- Participants didn't notice that they could control what MyUSA sent to the app **Definitely fixed**
+- Participants didn't notice that they could edit the information being sent **Probably fixed**
+- Participants found the introduction to the page and the reasons for requesting data confusing **Not fixed**
+
+##### Further questions and answers
 Goals | Questions | Hypothesis | Results
 :------------ | :-------------| :------------- |:-------------
 Help select a design direction for the permissions page | Does making the help text more visually prominent help users notice that they can control what they are sharing? | Yes | No. What helps is making the controls more prominent.
- | Do users find it easier to turn sharing on/off with a toggle selector or a checkbox? | Toggle | It's a draw, with toggles easier by a hair. Certainly people noticed the toggles faster.
-Check whether our new content for the page resolves the comprehension problems with the old one | Are people reading the body text? | No | No.
+ | Do users notice they can control what they share better with a toggle selector or a checkbox? | Toggle | It's a draw, with toggles easier by a hair. Certainly people noticed the toggles faster.
+Check whether new content/design resolves specific comprehension problems we identified with the old permissions page | Are people reading the body text? | No | No.
  | Does the content in the body text explain what we're doing? | Maybe | No. It's too unspecific about <p> (a) what MyUSA is. <p> (b) where the information is coming from. <p> (c) who is receiving the information |
  | Does reading that content affect their decision | No (as per Gov.UK and academic research) | No because <p> (a) because some people had already made their decision and <p> (b) some found the content too unspecific to be informative 
+ | Have we helped participants realize that they can control sharing and edit information | Yes | Yes! 
 Test whether we've fixed email copy problems | Is one link less confusing than two links? | Yes | Yes - no one mentioned it as an issue |
 
 #### Themes
@@ -102,7 +109,7 @@ Additionally, we found that having two links in the confirmation email was confu
 The goals for this activity are:
 
 1. Help select a design direction for the permissions page
-2. Check whether our new content for the page resolves the comprehension problems with the old one
+2. Check whether new content/design resolves specific comprehension problems we identified with the old permissions page
 3. Check whether the revisions to the email template make it easier to follow
 
 ## What are we going to do?
