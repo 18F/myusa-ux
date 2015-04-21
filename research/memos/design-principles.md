@@ -1,4 +1,4 @@
-# Trust must be earned
+# [Trust must be earned](#trust)
 
 There is widespread mistrust of the entities that collect and share personal data, from commercial sites to the government. 
 
