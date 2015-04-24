@@ -38,17 +38,19 @@ Aiming for maximum variety in region and business type, but trying to focus on s
   * up to 9 participants
   * not in DC, NYC, or SF
   * through friends and family
-  * Blurb [here](https://docs.google.com/a/gsa.gov/document/d/1v0JACjQN-u7uHGOXZPZZOmSuLvJnlfSJjN-LMtABksI/edit?usp=sharing)
-## Conduct interviews
+  * [Blurb](https://github.com/18F/myusa/issues/596#issuecomment-95762044)
+
+## Do interviews
 * 1 hour
 * Semi-structured
+* Liz + at least one non-researcher on the team
+* [Script](https://github.com/18F/myusa-ux/blob/master/research/usability/sprint25_hallway-script.md)
 
-### Activities
-#### Walk through 
 ## Analysis
 * Affinity diagram workshop with the team
 
 # When are we doing it?
 * Sprint 24-25: planning and recruitment
-* Sprint 26: research --> analysis
-* Sprint 27: report --> design
+* Sprint 26: interviews start
+* Sprint 27: interviews continue + analysis
+* Sprint 28: workshops
