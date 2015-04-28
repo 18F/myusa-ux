@@ -2,18 +2,19 @@
 MyUSA has a number of potential integrators serving small business owners. We haven't done any research with small business owners, nor have we done much research with potential users who are not on the coasts. However, we have done research internally (18F, other parts of GSA, and HHS). This study will focus on small business owners across the US, aiming for 6-9 participants (most likely remote, but potentially some in-person). 
 
 # Goals and questions
-## Describe participants' current frustrations with signing in to government websites
-### :question: How are people managing on-going transactions with government agencies? What tools are they using? What workarounds? 
-  * making accounts and signing in
-  * returning to an ongoing activity after a break
 
-### :question: How interested are potential users in a shared sign-on service?
+We know from secondary research and previous research activities that there is significant concern about how commercial IdPs treat data from and about users. This activity will (1) give us more insight into how small businesses are currently managing interations with government services, (2) check whether our findings from secondary research and research with federal employees are relevant to other groups, and (3) 
 
-## Explore public concerns over data sharing 
-We know from secondary research and previous research activities that there is significant concern about how commercial IdPs treat data from and about users. 
-### :question: What concerns do people express about MyUSA?
-### :question: How do do US users who are **not** government employees react to signing in with companies that are associated with a single service (such as Verizon or Paypal)?
-### :question: How do US users who are **not** government employees react to signing in using sites that offer many services (e.g. Google)?
+| Goal | Question |
+|:-----|:---------|
+| Identify current frustrations with signing in to government websites | How are people managing on-going transactions with government agencies? </br> * making accounts and signing in
+</br> * returning to an ongoing activity after a break|
+| | What tools are they using? Workarounds? |
+| | How interested are potential users in a shared sign-on service? |
+
+| Assess attitudes towards data sharing | What concerns do people express about MyUSA? |
+| | How do do US users who are **not** government employees react to signing in with companies that are associated with a single service (such as Verizon or Paypal)? |
+| | How do US users who are **not** government employees react to signing in using sites that offer many services (e.g. Google)?
 ## Evaluate redesigned account management site and authorization screen
 We redesigned the account management site and permissions screen based on previous studies. 
 ### :question:  Have we made the sharing options more visible on the permissions screen?
