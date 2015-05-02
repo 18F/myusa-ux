@@ -1,6 +1,20 @@
 # Script for agency partners
 
-Consent form?
+
+_Check whether I have consent form_
+
+_Call participant's phone_
+
+## Introductions
+
+
+_Does the participant have any questions?_
+
+What we're going to do today is called a talk-aloud activity -- you say what you're thinking as you examine the page. 
+
+What you're going to see is an interactive mockup -- more like a PDF than a real webpage. Some links will work, and some won't. 
+
+_Ask them to go to Invision link_
 
 
 ## Landing page
@@ -26,4 +40,7 @@ Anything confusing?
 
 What else should we add? 
 
+## Conclusion
+
+Anything else you want to say? Anything I should have asked about? 
 
