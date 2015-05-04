@@ -1,9 +1,9 @@
 # Background
-MyUSA has a number of potential integrators serving small business owners. We haven't done any research with small business owners, nor have we done much research with potential users who are not on the coasts. The research we have done research is internal (18F, other parts of GSA, and HHS). This study will focus on small business owners across the US, aiming for 6-9 participants (most likely remote, but potentially some in-person). It will help us identify what is working and what is not working with the redesigned sign-in flow and initial version of the account management site.
+MyUSA has a number of potential integrators serving small business owners. We haven't done any research with small business owners, nor have we done much research with potential users who are not on the coasts. The research we have done research is internal (18F, other parts of GSA, and HHS). This study will focus on small business owners across the US, aiming for 6-9 participants (most likely remote, but potentially some in-person). It will help us identify what is working and what is not working with the redesigned sign-in flow.
 
 # Goals and questions
 
-We know from secondary research and previous research activities that there is significant concern about how commercial IdPs treat data from and about users. This activity will  
+We know from secondary research and previous research activities that there is significant concern about how commercial IdPs treat data from and about users. This activity will:
 
 1. give us more insight into how small businesses are currently managing interations with government services
 2. check whether our findings from secondary research and research with federal employees are relevant to other groups
@@ -20,8 +20,7 @@ We know from secondary research and previous research activities that there is s
 |Evaluate redesigned permissions screen | Have we made the sharing options more visible on the permissions screen?|Most participants notice the permissions| 
 | | |Most participants can edit permissions when asked |
 | | |Participants demonstrate comprehension of the choices they are making|
-|Evaluate account management site IA | Have we sufficiently explained what applications are? ||
-
+|Evaluate account management site IA (maybe) | Have we sufficiently explained what applications are? ||
 
 ## Intended outcomes
 * Customer journey maps
@@ -35,6 +34,7 @@ Aiming for maximum variety in region and business type, but trying to focus on s
   * up to 9 participants
   * not in DC, NYC, or SF
   * through friends and family
+    * right now: SF (1), Tucson (3), Chicago (1) 
   * [Blurb](https://github.com/18F/myusa/issues/596#issuecomment-95762044)
 
 ## Do interviews
