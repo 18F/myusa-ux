@@ -17,10 +17,11 @@ We know from secondary research and previous research activities that there is s
 | Assess attitudes towards data sharing | What concerns do people express about signing in with MyUSA? |
 | | How do do US users who are **not** government employees react to signing in with companies that are associated with a single service (such as Verizon or Paypal)? |
 | | How do US users who are **not** government employees react to signing in using sites that offer many services (e.g. Google)?|
-|Evaluate redesigned permissions screen | Have we made the sharing options more visible on the permissions screen?| | 
-|Evaluate account management site IA | Have we sufficiently explained what applications are? |Most participants notice the permissions|
+|Evaluate redesigned permissions screen | Have we made the sharing options more visible on the permissions screen?|Most participants notice the permissions| 
 | | |Most participants can edit permissions when asked |
 | | |Participants demonstrate comprehension of the choices they are making|
+|Evaluate account management site IA | Have we sufficiently explained what applications are? ||
+
 
 ## Intended outcomes
 * Customer journey maps
