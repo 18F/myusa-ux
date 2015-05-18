@@ -7,12 +7,16 @@ _Call participant's phone_
 
 ## Introductions
 
+We're interested in getting feedback on the content and layout of this page from you as someone who's thought about using MyUSA for your work. 
 
-_Does the participant have any questions?_
+What's your role?
 
 What we're going to do today is called a talk-aloud activity -- you say what you're thinking as you examine the page. 
 
 What you're going to see is an interactive mockup -- more like a PDF than a real webpage. Some links will work, and some won't. 
+
+_Does the participant have any questions?_
+
 
 _Paste Invision link into video conferencing_
 
