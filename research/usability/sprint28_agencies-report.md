@@ -1,15 +1,14 @@
 #Tldr;
 
-```
-Nothing on this page where I would have gone, 'what's this here for, or this doesn't make sense.' It's relevant and presented well.  
-–22-P01 (implementer)
-```
+> Nothing on this page where I would have gone, 'what's this here for, or this doesn't make sense.' It's relevant and presented well.  
+
+> –22-P01 (implementer)
 
 We're largely on the right track for developers or technical product managers in terms of the structure and content of the Learn More page, although they are asking for more specifics about how MyUSA works before signing up. There are some clear ways forward to support their needs included below. 
 
 We are doing as well by members of partner organizations who are not actively engaged in account management system implementation. It was not immediately clear to them what benefits MyUSA offers, or why they would visit the site. 
 
-**My recommendations** 
+**Main recommendations** 
 
 - Direct the front page at members of the public interested in what MyUSA does for them 
 - Optimize the Learn More page for technical implementers. Add system diagrams.
@@ -70,16 +69,15 @@ These two groups will come to MyUSA with different levels of knowledge about and
 
 **Implementers (three of five participants) could all explain why they were visiting the site**. Domain experts could not. For example:
 
-```
-[The page] is good for somebody who already has knowledge of why they'd be here.[...] I'm wondering why I would be here.  As a member of FEMA, I don't know what we're looking at. 
--- 22-P04 (domain expert)
-```
+> [The page] is good for somebody who already has knowledge of why they'd be here.[...] I'm wondering why I would be here.  As a member of FEMA, I don't know what we're looking at. 
+
+>-- 22-P04 (domain expert)
+
 When I did not give them a specific reason why they would visit the site, the **domain experts assumed they were visiting as regular users**, not people with a technical interest in how MyUSA works.
 
-```
-How would I get here as a user? Why would I be here? What can I do?
--- 22-P05 (domain expert)
-```
+> How would I get here as a user? Why would I be here? What can I do?
+
+> -- 22-P05 (domain expert)
 
 ## Signing up is not the next step
 
@@ -89,22 +87,16 @@ But none of the participants, even those who were very enthusiastic about MyUSA,
 
 The "next step" 22-P01 would take after looking at the top section is to go to Learn More: 
 
-```
-That's what I want to do. I want to learn more how to integrate this into our site.
+> That's what I want to do. I want to learn more how to integrate this into our site.
 -- 22-P01 (implementer)
-```
 
 Participants didn't want to make an account until they were really sure what they were signing up for
 
-```
-What am I signing up for? Why is this important to me? 
+> What am I signing up for? Why is this important to me? 
 -- 22-P02 (implementer), looking at sign-in button on front page
-```
 
-```
-I'm not sure even what MyUSA is, so I'd look for information [first]
+> I'm not sure even what MyUSA is, so I'd look for information [first]
 -- 22-P05 (domain expert)
-```
 
 :arrow-right: De-emphasize sign up as a call to action. 
 
@@ -116,32 +108,25 @@ I'm not sure even what MyUSA is, so I'd look for information [first]
 
 In general, implementers liked the section order and content of the Learn More agency page as a "high level overview" (22-P03). The benefit statements were appealing and relevant. 
 
-```
-Somewhere you have to address the security and their privacy. Everything else seems pretty straightforward.  
-—22-P02 (implementer)
-```
+> Somewhere you have to address the security and their privacy. Everything else seems pretty straightforward.  
+> —22-P02 (implementer)
 
 But the pages didn't give them enough specific information to make the decision to make an account. 
 
-```
-You have the high level categories covered, it's just the details that I'd be more interested in learning more about.   
-— 22-P01 (implementer)
-```
+> You have the high level categories covered, it's just the details that I'd be more interested in learning more about.   
+> — 22-P01 (implementer)
 
 ### Our value propositions appeal to implementers but not as much to domain experts
 
 #### "Account management" 
 ##### resonates with implementers
 
-```
-"That's great -- that's exactly what we want to do. Robust account management.
-— 22-P01 (implementer)
-```
+> That's great -- that's exactly what we want to do. Robust account management.
+> — 22-P01 (implementer)
 
-```
-You can create an account to register for different specific things based on your needs. 
-— 22-P03 (implementer)
-```
+> You can create an account to register for different specific things based on your needs. 
+> — 22-P03 (implementer)
+
 **Hypothesis confirmed** Providing account management is desirable because there are pervasive "help desk issues with password and PIN reset."
 
 **Hypothesis confirmed** Providing account management is desirable because agencies don't want to do it.
@@ -150,19 +135,15 @@ Nice phrasing on the benefits to integrators from 22-P01: "Your website connects
 
 ##### but means little to domain experts
 
-```
-One account for government -- one account for government WHAT? --- What resources and services?
-22-P05 (domain expert)
-```
+> One account for government -- one account for government WHAT? --- What resources and services?
+> – 22-P05 (domain expert)
 
 ##### The concept of "Single sign on" is more universally recognized and appealing 
 
 Four of five participants (22-P01, 22-P02, 22-P03, 22-P05) mentioned single-sign without being asked about it. 
 
-```
-Single-sign on, that's great.
-—22-P02 (implementer), looking at the visitor page
-```
+> Single-sign on, that's great.
+> —22-P02 (implementer), looking at the visitor page
 
 One participant was not sure whether we provide single sign on, however -- "Do I need a third-party single-sign on service?" he asked.
 
@@ -170,33 +151,31 @@ One participant was not sure whether we provide single sign on, however -- "Do I
 
 ### Free is good...
 
-```
-Lots of agencies are having difficulties finding a line item for development. 
-— 22-P03
-```
+> Lots of agencies are having difficulties finding a line item for development. 
+> — 22-P03
+
 Once again, MyUSA lets agencies focus on the jobs they they care about. 
 
 ### But implementers wanted more specific information about...
  
-#### How integration would really work
+#### How integration would _really_ work
 
-"I'm thinking about how this may work with us." 
--- 22-P02
+> I'm thinking about how this may work with us.
+> -- 22-P02
 
-- Interested in finding out more about three steps. How difficult or how easy is it is to get this integrated? Would like to get into documentation to see how mature the API is. 22-P01
+How difficult or how easy is it is to get this integrated? How mature is the API? (22-P01)
 
 #### Security measures
 
 1 person asked **whether we do two-factor authentication**. Apparently some of their partners require 2FA.
 
-2 people asked **how passwordless sign on could work**
+2 people asked **how passwordless sign on could work**. 
 
 We can take these questions as indicative of how implementers define "security," but not indicative of how pervasive security concerns are.
 
-```
-How do you "make sure I'm the one whose receiving those emails?
--- 22-P02
-```
+> Make sure **I'm** the one whose receiving those emails
+
+> -- 22-P02
 
 #### Is it really free?
 
@@ -204,31 +183,33 @@ How do you "make sure I'm the one whose receiving those emails?
 
 
 #### Privacy protections for users
-```
-If I was to complete a registration form here, is that registration form going to go to all federal agencies? If I haven't paid my taxes in ten years, and I don't want the IRS to know, what will happen? 
--- 22-P02
-```
 
-```
-It doesn't tell me about cookies
-Q: cookies?
-A: part of privacy policy.
-—22-P03
-```
+##### Sharing among agencies
+>If I was to complete a registration form here, is that registration form going to go to all federal agencies? If I haven't paid my taxes in ten years, and I don't want the IRS to know, what will happen? 
 
-<hr>
+> -- 22-P02
 
-Privacy is a big concern for FEMA
+##### Cookies
 
-"At FEMA, we do not want to hold PII because then we're liable for it. We have certain restrictions on what we can and can't do. I was under the impression -- MyUSA will hold the PII.[...] So that a person could sign up with MyUSA and apply for disaster assistance and we wouldn't have to store PII because it would be with you guys." 22-P04
+> It doesn't tell me about cookies
 
+> Q: cookies?
+
+> A: part of privacy policy.
+
+> —22-P03
+
+##### Liability for PII
+
+>At FEMA, we do not want to hold PII because then we're liable for it. We have certain restrictions on what we can and can't do. I was under the impression -- MyUSA will hold the PII.[...] So that a person could sign up with MyUSA and apply for disaster assistance and we wouldn't have to store PII because it would be with you guys. 
+
+> 22-P04
   
 #### Some confusion about what information we collect
 
-```
-What information do you ask for? because this doesn't really tell me." 
-22-P03
-```
+> What information do you ask for? because this doesn't really tell me." 
+
+> 22-P03
 
 Two participants expected MyUSA would store much more PII than it does. One expected MyUSA would store name, phone number, current address, DOB, and SSN. Another expected that MyUSA would serve as a "wallet" 
  
@@ -242,20 +223,23 @@ What kind of notifications do you offer? 22-P01
 
 #### Who else is using it?
 
-Two out of three participants _really_ wanted the names of specific agencies. Two were mildly interested. None saw the names of partner agencies as irrelevant. 
+Two out of three participants _really_ wanted the names of specific agencies. Two were mildly interested. None saw the names of partner agencies as irrelevant. Partner agencies showed up in the context of...
 
+##### Security
 
-"One of the things that helps that process -- looking at partner agencies -- in past projects has helped is to **reference approaches that are being used in the federal government already, because that carries weight when you present it to security.** That it's being used by a federal website that gets a lot of traffic." 22-P01
+> One of the things that helps that process -- looking at partner agencies -- in past projects has helped is to **reference approaches that are being used in the federal government already, because that carries weight when you present it to security.** That it's being used by a federal website that gets a lot of traffic.
 
-<hr>
+> -- 22-P01
 
-"Partner agencies are really important. **[They] impact what peoples say about privacy.**" 22-P02
+##### Privacy
+
+> Partner agencies are really important. **[They] impact what peoples say about privacy.**" 22-P02
 
 22-P02 "What's missing from upfront, what agencies do you play with" 
 
-<hr>
+##### What's going on here? 
 
-This differs from other groups we've interviewed (notably those at HHS). I have two hypotheses to explain this:
+This differs from groups at other agencies who did not see the names of agencies as important information. I have two hypotheses to explain this:
 
 1. The concern is specific to disasterassistance.gov because they work with HUD and also have developers from Benefits.gov. 
 2. The names of partner agencies are most salient to integration project managers because they affect how security and other teams review potential solutions.
@@ -265,41 +249,37 @@ The latter seems more reasonable, and suggests that we should be clear when we t
 
 ### Domain experts are confused about what MyUSA does
 
-```
-MyUSA is one account for government..but what resources and services? [...] I just don't know what MyUSA DOES.  
-— 22-P05, 20 minutes into the walkthrough
+> MyUSA is one account for government..but what resources and services? [...] I just don't know what MyUSA DOES.  
 
-```
+> — 22-P05, **20 minutes into the walkthrough**
+
+
 Domain experts had problems articulating the benefits that MyUSA provides in their own words, or in identifying those benefits at all.  
 
-To better inform domain experts, consider
 
-:arrow_right: "Single sign on" is a well-understood term. Use the word "single sign on" throughout the site, not just on Visitors page
+## Recommendations
+
+### Show, don't tell, UX
+
+> Kind of a real-world situation type thing. Kind of like, well, Joe came to MyUSA and this is what he can do. These are the things he sees. 
+> -- 22-P03
 
 :arrow_right: Less text, more graphics
+- include screenshots 
+
+For implementers
+
+:arrow_right: Add an FAQ or detail pages with specific per-item URLs so that implementers can email specific links to domain experts for review 
 
 :arrow_right: Include scenarios of likely use that illustrate  *who* would use MyUSA, and what benefits they'd gain 
 
 
+### Emphasize "single sign on"
 
-## How to address the different perspectives of the two groups
+"Single sign on" is a well-understood term for both groups.  
 
-### Show, don't tell, UX
+:arrow_right: Use the word "single sign on" throughout the site, not just on Visitors page
 
-Suggestions included
-- a step-by-step tutorial page for users
-- scenarios
-- screenshots
-
-```
-Kind of a real-world situation type thing. Kind of like, well, Joe came to MyUSA and this is what he can do. These are the things he sees. 
--- 22-P03
-```
-We might 
-
-:arrow_right: add links to an FAQ or detail pages
-
-:arrow_right: include screenshots as pointers to what users will see
 
 ### High level overview
 
@@ -307,14 +287,10 @@ We might
 a high level information of how this whole process works. something that gives us a very broad view [...] how all this integrates with my site; how it works and all that.
 --22-P01 (implementer)
 ```
-Maybe a system diagram?
-
-22-P03 (implementer) thought this information would be found at Use MyUSA.  
-Go to Learn More or About to see what it's about 22-P05
+:arrow_right: include a system diagram
 
 
-## Per page comments
-
+## Specific design comments
 
 ### Starting page
 
@@ -367,13 +343,16 @@ Green is "okay". [It needs to look more America] Most stuff for gov't is red whi
 ```
 #### Another person really liked it. 
 
-```
-I like the simpliciy [of the layout]. I like the graphics. They're not overly done. They're simple but they still indicate what I'm going to be clicking on or going to. I like the variance in the color and the separation of the boxes.
-22-P04
-```
+> I like the simpliciy [of the layout]. I like the graphics. They're not overly done. They're simple but they still indicate what I'm going to be clicking on or going to. I like the variance in the color and the separation of the boxes.
+
+> -- 22-P04
+
 
 #### So there you go. Opinions differ on the learn more layout. But it's interesting that two people both mentioned it. 
 
+#### Page titles might be misleading 
+
+Where should a visitor go to get those details? Three participants said "Learn More". One implementer thought details should be at Use MyUSA. One domain expert expert expected more information  at About. 
 
 
 ### Domain experts found the notion of 
@@ -386,9 +365,6 @@ What am I registering for myself? For my agency? What am I registering? Why woul
 ```
 MyUSA is one account for government..but what resources and services?
 
-How would I get here as a user? Why would I be here? What can I do?
-22-P05
-```
 
 
 
