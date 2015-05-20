@@ -15,10 +15,11 @@ What we're going to do today is called a talk-aloud activity -- you say what you
 
 What you're going to see is an interactive mockup -- more like a PDF than a real webpage. Some links will work, and some won't. 
 
-_Does the participant have any questions?_
-
+Does the participant have any questions?
 
 _Paste Invision link into video conferencing_
+
+Explain visit scenario based on role
 
 ## Test
 ### Landing page
