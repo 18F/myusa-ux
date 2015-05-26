@@ -1,27 +1,91 @@
+# Pre-work
+
+- [ ] Send reminder email to team
+
+- [ ] Set up liveshare for: https://projects.invisionapp.com/d/main#/console/2318574/76723041/preview
+
+- [ ] Open Mural.ly: http://mrl.li/v9QMMePE
+
+- [ ] Print script 
+
 # Script for agency partners
 
+_Call participant_
 
-_Check whether I have consent form_
+_Send consent form_: http://goo.gl/forms/XcW7YdAKvq
 
-_Call participant's phone_
 
 ## Introductions
 
-We're interested in getting feedback on the content and layout of this page from you as someone who's thought about using MyUSA for your work. 
+Thanks for meeting with me today. 
+
+I'm a user researcher here at 18F -- which means that I spend my time trying to understand how people use MyUSA in order to improve it. In context of MyUSA, that means:
+
+1. talking to end users
+2. talking to people like you who are considering or are in the process of integrating MyUSA into a website. What you can tell us about your experience will help us revise our public-facing landing pages, our technical documentation, and our support for developers. 
+
+So today I want to do two things:
+
+1. learn more about how you found out about MyUSA and where you are in the process, including what's worked for you and what hasn't worked so well
+2. get your opinion on our new landing page as someone who's thought about using MyUSA for your work. 
+
+You may have questions about MyUSA or how it works as we go. Because I'm hoping to get your unvarnished first take, I'm going to note them down, then answer them at the end. 
+
+## About you
 
 What's your role?
 
-What we're going to do today is called a talk-aloud activity -- you say what you're thinking as you examine the page. 
+How long have you been in this role?
 
-What you're going to see is an interactive mockup -- more like a PDF than a real webpage. Some links will work, and some won't. 
+What are your responsibilities?
+
+## Journey
+
+So let's talk about your experiences with MyUSA.
+
+### Instructions
+I'm going to do a little experiment. As you talk to me, I'm going to take notes on a website called Mural.ly, which is a bit like a shared whiteboard with digital post-it notes, and arrange them in a kind of a timeline. I'm hoping that this will prompt your memory a bit, and help me make sure that I'm getting down everything correctly. Feel free to join in and start adding "post its" if you want, or ask me how it works. 
+
+_Go to clean Mural.ly doc for this interview._
+
+### Questions
+Tell me about your process with MyUSA thus far:
+
+Where are you right now?
+
+Let's walk back to the beginning. How did you first encounter MyUSA?
+
+At each step, ask about:
+
+- triggers
+- tools (website, documentation)
+- people involved 
+- policies
+- questions
+- emotions
+
+When will you know you're done?
+
+Have you done this in the past? Is what's going on like or unlike other processes?
+
+
+## Test
+Thanks so much for going through that with me. It's really helpful to get a sense of the full scope of what you're doing. 
+
+### Instructions
+
+What I'd like to do next is get your feedback on a redesign of our informational front page. 
+
+I'd like to do this as what's called a talk-aloud activity -- you say what you're thinking as you examine the page. 
+
+What you're going to see is an interactive mockup -- more like a PDF than a real webpage. Some links will work, and some won't. If a link doesn't work, I'll tell you where it would have gone.
 
 Does the participant have any questions?
 
 _Paste Invision link into video conferencing_
 
-Explain visit scenario based on role
+Explain visit scenario based on role. 
 
-## Test
 ### Landing page
 
 What strikes you first? 
@@ -41,22 +105,6 @@ Anything confusing?
 
 What else should we add? 
 
-## Journey
-
-What do you do?
-
-(If involved in selecting sign-on systems) 
-
-Tell me about the process of selecting a sign-on system. 
-
-- Who's involved? From what groups? 
-- What's the first step?
-- How do you know you're done?
-- How did you come up with initial options?
-
-What makes for a good sign-in system, _from your perspective as a ___________ _?
-
-Have you done this in the past? Is what's going on like or unlike other processes?
 
 ## Resolution
 
@@ -64,3 +112,5 @@ I answer _their_ questions about what MyUSA does.
 
 Anything else you want to say? Anything I should have asked about? 
 
+# Post-work
+- [ ] send thank-you email!
