@@ -70,13 +70,11 @@ These two groups will come to MyUSA with different levels of knowledge about and
 **Implementers (three of five participants) could all explain why they were visiting the site**. Domain experts could not. For example:
 
 > [The page] is good for somebody who already has knowledge of why they'd be here.[...] I'm wondering why I would be here.  As a member of FEMA, I don't know what we're looking at. 
-
->-- 22-P04 (domain expert)
+> -- 22-P04 (domain expert)
 
 When I did not give them a specific reason why they would visit the site, the **domain experts assumed they were visiting as regular users**, not people with a technical interest in how MyUSA works.
 
 > How would I get here as a user? Why would I be here? What can I do?
-
 > -- 22-P05 (domain expert)
 
 ## Signing up is not the next step
@@ -88,15 +86,15 @@ But none of the participants, even those who were very enthusiastic about MyUSA,
 The "next step" 22-P01 would take after looking at the top section is to go to Learn More: 
 
 > That's what I want to do. I want to learn more how to integrate this into our site.
--- 22-P01 (implementer)
+> -- 22-P01 (implementer)
 
 Participants didn't want to make an account until they were really sure what they were signing up for
 
 > What am I signing up for? Why is this important to me? 
--- 22-P02 (implementer), looking at sign-in button on front page
+> -- 22-P02 (implementer), looking at sign-in button on front page
 
 > I'm not sure even what MyUSA is, so I'd look for information [first]
--- 22-P05 (domain expert)
+> -- 22-P05 (domain expert)
 
 :arrow-right: De-emphasize sign up as a call to action. 
 
@@ -174,7 +172,6 @@ How difficult or how easy is it is to get this integrated? How mature is the API
 We can take these questions as indicative of how implementers define "security," but not indicative of how pervasive security concerns are.
 
 > Make sure **I'm** the one whose receiving those emails
-
 > -- 22-P02
 
 #### Is it really free?
@@ -185,8 +182,7 @@ We can take these questions as indicative of how implementers define "security,"
 #### Privacy protections for users
 
 ##### Sharing among agencies
->If I was to complete a registration form here, is that registration form going to go to all federal agencies? If I haven't paid my taxes in ten years, and I don't want the IRS to know, what will happen? 
-
+> If I was to complete a registration form here, is that registration form going to go to all federal agencies? If I haven't paid my taxes in ten years, and I don't want the IRS to know, what will happen? 
 > -- 22-P02
 
 ##### Cookies
@@ -201,7 +197,7 @@ We can take these questions as indicative of how implementers define "security,"
 
 ##### Liability for PII
 
->At FEMA, we do not want to hold PII because then we're liable for it. We have certain restrictions on what we can and can't do. I was under the impression -- MyUSA will hold the PII.[...] So that a person could sign up with MyUSA and apply for disaster assistance and we wouldn't have to store PII because it would be with you guys. 
+> At FEMA, we do not want to hold PII because then we're liable for it. We have certain restrictions on what we can and can't do. I was under the impression -- MyUSA will hold the PII.[...] So that a person could sign up with MyUSA and apply for disaster assistance and we wouldn't have to store PII because it would be with you guys. 
 
 > 22-P04
   
@@ -217,25 +213,26 @@ Two participants expected MyUSA would store much more PII than it does. One expe
 
 #### How tasks and notifications work
 
-22-P03 and -P01 were not sure what a task or task list was. "How does that relate to account management?" asked 22-P01
+22-P03 and -P01 were not sure what a task or task list was. What kinds of notifications do we offer, and how do they relate to account management?
 
-What kind of notifications do you offer? 22-P01
+> What kind of notifications do you offer? 22-P01
 
 #### Who else is using it?
+
+22-P02 "What's missing from upfront, what agencies do you play with" 
+
 
 Two out of three participants _really_ wanted the names of specific agencies. Two were mildly interested. None saw the names of partner agencies as irrelevant. Partner agencies showed up in the context of...
 
 ##### Security
 
 > One of the things that helps that process -- looking at partner agencies -- in past projects has helped is to **reference approaches that are being used in the federal government already, because that carries weight when you present it to security.** That it's being used by a federal website that gets a lot of traffic.
-
 > -- 22-P01
 
 ##### Privacy
 
 > Partner agencies are really important. **[They] impact what peoples say about privacy.**" 22-P02
 
-22-P02 "What's missing from upfront, what agencies do you play with" 
 
 ##### What's going on here? 
 
@@ -283,10 +280,9 @@ For implementers
 
 ### High level overview
 
-```
-a high level information of how this whole process works. something that gives us a very broad view [...] how all this integrates with my site; how it works and all that.
---22-P01 (implementer)
-```
+> a high level information of how this whole process works. something that gives us a very broad view [...] how all this integrates with my site; how it works and all that.
+> --22-P01 (implementer)
+
 :arrow_right: include a system diagram
 
 
@@ -320,27 +316,23 @@ vs
 ### Learn More
 ### Structure is working
 
-"**The [section] order is aligned with my questions**"   
-—22-P01
+> **The [section] order is aligned with my questions**  
+> —22-P01
 
+But there's "a lot of text" (22-P05) and not all of it seems directly relevant to the question text. 
 
-Small text doesn't have to do with the question text. It seems confusing. 22-P03
+> Not sure if I like the staggers. Would prefer to see them all on one side. It makes more sense to me.
 
-A lot of text 22-P05
+> It seems like the questions should be on the left side. Answers or other text on the right side. 
 
-```
-Not sure if I like the staggers. Would prefer to see them all on one side. It makes more sense to me.
+> Seems like you need a flag someplace. An American flag. 
 
-It seems like the questions should be on the left side. Answers or other text on the right side. 
+> It just seems too plain for MyUSA. [The logo] if you put that in red it might look better. Either My in blue or USA in red. Looks more American. 
 
-Seems like you need a flag someplace. An American flag. 
+> Green is "okay". [It needs to look more America] Most stuff for gov't is red white and blue. The black to me is just kinda dead.
 
-It just seems too plain for MyUSA. [The logo] if you put that in red it might look better. Either My in blue or USA in red. Looks more American. 
+> — 22-P03
 
-Green is "okay". [It needs to look more America] Most stuff for gov't is red white and blue. The black to me is just kinda dead.
-
-— 22-P03
-```
 #### Another person really liked it. 
 
 > I like the simpliciy [of the layout]. I like the graphics. They're not overly done. They're simple but they still indicate what I'm going to be clicking on or going to. I like the variance in the color and the separation of the boxes.
@@ -355,24 +347,18 @@ Green is "okay". [It needs to look more America] Most stuff for gov't is red whi
 Where should a visitor go to get those details? Three participants said "Learn More". One implementer thought details should be at Use MyUSA. One domain expert expert expected more information  at About. 
 
 
-### Domain experts found the notion of 
+### Domain experts weren't sure about what they would be signing up for
 
-```
-What am I registering for myself? For my agency? What am I registering? Why would I register? 
-22-P04
-```
+> What am I registering for myself? For my agency? What am I registering? Why would I register? 
+-- 22-P04
 
-```
-MyUSA is one account for government..but what resources and services?
-
-
-
-
+> MyUSA is one account for government..but what resources and services?
 
 # Customer journey notes
 
 ## Researching all the available options
-"Exploring methods and approaches for handling account management. This is a really good time for us to learn about new approaches, or what else is involved in account management that we haven't considered. Looks like [passwordless] you have some new methods." 22-P01
+
+> Exploring methods and approaches for handling account management. This is a really good time for us to learn about new approaches, or what else is involved in account management that we haven't considered. Looks like [passwordless] you have some new methods. 22-P01
 
 22-P04 is not part of the team that's [journey step] researching all the options available. 
 
@@ -387,7 +373,7 @@ Behind the scenes I would also have to think about if I'm allowed this informati
 
 ## Getting approval from security
 
-Security identifies issues; they identify solutions [compliance and checklist culture]
+Security identifies issues; they identify solutions
 
 "**Usable for end user but will it pass security?** Once we narrowed it down to a couple flows, we want to present them to security, but we'd like to present a third option, which would be using MyUSA." 22-P01
 
