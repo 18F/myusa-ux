@@ -96,9 +96,9 @@ Participants didn't want to make an account until they were really sure what the
 > I'm not sure even what MyUSA is, so I'd look for information [first]
 > -- 22-P05 (domain expert)
 
-:arrow-right: De-emphasize sign up as a call to action. 
+:arrow_right: De-emphasize sign up as a call to action. 
 
-:arrow-right: Besides the "Learn More" page, how else might we help implementers learn more about implementing MyUSA? 
+:arrow_right: Besides the "Learn More" page, how else might we help implementers learn more about implementing MyUSA? 
 
 
 ## The Learn More page works best as a high level overview for implementers
