@@ -1,13 +1,13 @@
 # Background
-MyUSA has a number of potential integrators serving small business owners. We haven't done any research with small business owners, nor have we done much research with potential users who are not on the coasts. The research we have done research is internal (18F, other parts of GSA, and HHS). This study will focus on small business owners across the US, aiming for 6-9 participants (most likely remote, but potentially some in-person). It will help us identify what is working and what is not working with the redesigned sign-in flow.
+MyUSA has a number of potential integrators serving small business owners. We haven't done any research with small business owners, nor have we done much research with potential users who are not on the coasts. The research we have done research is internal (18F, other parts of GSA, and HHS). This study will focus on small business owners across the US, aiming for 6-9 participants (most likely remote, but potentially some in-person). It will help us identify and triage problems before ATO. 
 
 # Goals and questions
 
-We know from secondary research and previous research activities that there is significant concern about how commercial IdPs treat data from and about users. This activity will:
+We know that small business owners and employees may well be using MyUSA soon. This activity will:
 
 1. give us more insight into how small businesses are currently managing interations with government services
 2. check whether our findings from secondary research and research with federal employees are relevant to other groups
-3. evaluate redesigned permissions screen
+3. evaluate redesigned sign-in flow in time for Julia to make minor changes
 
 | Goal | Question | Metrics |
 |:-----|:---------|:--------|
@@ -15,16 +15,15 @@ We know from secondary research and previous research activities that there is s
 | | What tools are they using? Workarounds?| |
 | | How interested are potential users in a shared sign-on service? | |
 | Assess attitudes towards data sharing | What concerns do people express about signing in with MyUSA? |
-| | How do do US users who are **not** government employees react to signing in with companies that are associated with a single service (such as Verizon or Paypal)? |
+| | |
 | | How do US users who are **not** government employees react to signing in using sites that offer many services (e.g. Google)?|
-|Evaluate redesigned permissions screen | Have we made the sharing options more visible on the permissions screen?|Most participants notice the permissions| 
+|Evaluate redesigned sign-in flow| Are we scaffolding practical consent?|Most participants notice the permissions| 
 | | |Most participants can edit permissions when asked |
-| | |Participants demonstrate comprehension of the choices they are making|
+| | |Participants can explain the choices they would make, demonstrating accurate knowledge of the likely results|
 |Evaluate account management site IA (maybe) | Have we sufficiently explained what applications are? ||
 
 ## Intended outcomes
-* Customer journey maps
-* Immediate fixes
+* Immediate fixes for sign-in flow
 
 # What are we going to do?
 ## Find participants 
@@ -38,16 +37,15 @@ Aiming for maximum variety in region and business type, but trying to focus on s
   * [Blurb](https://github.com/18F/myusa/issues/596#issuecomment-95762044)
 
 ## Do interviews
-* 1 hour
+* 45 minutes
 * Semi-structured
 * Liz + at least one non-researcher on the team
-* [Script](https://github.com/18F/myusa-ux/blob/master/research/usability/sprint25_hallway-script.md)
+* [Script](https://github.com/18F/myusa-ux/blob/master/research/usability/sprint33_hallway-script.md)
 
 ## Analysis
 * Affinity diagram workshop with the team
 
 # When are we doing it?
-* Sprint 24-29: planning and recruitment
-* Sprint 29: interviews start
-* Sprint 30: interviews continue + analysis
-* Sprint 31: workshops
+* Sprint 33: planning and starting
+* Sprint 34: continuing interviews and analyzing (Liz OOO for most of the week)
+* Sprint 35: analyzing and discussing
