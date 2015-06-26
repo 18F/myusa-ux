@@ -5,7 +5,7 @@
 Right before the interview, start a Liveshare on the correct page. Then email that link to the interviewee during the interview. This is a painful hack but it's what we've got. I will happily take suggestions for a better way. 
 
 ## Major activities
-1. Relationship with federal government sign on
+1. Investigate their relationship with federal government sign on
 2. Walk through our sign-in
 
 ## Introduction
@@ -18,10 +18,11 @@ As the email said, we're interested in improving how small businesses interact w
 
 ### Get consent
 
-So, we are having this conversation so that other people can learn from it. I want to be sure that I understand and respect your wishes for how I should treat what you tell me.
+We're having this conversation so that other people can learn from it, and so that we make a product that is really taking in consideration what potential users need. I want to be sure that I understand and respect your wishes for how I should treat what you tell me.
 
-1) I'd like to take notes. Is that okay with you?
+1) I'd like to take notes (and share with my immediate team)
 2) 
+Is that ok with you?
 
 _Does the participant have any questions about the consent?_
 
@@ -31,18 +32,20 @@ _Does the participant have any questions about the consent?_
 
 What does your business do?
 
-What's your job there? 
+What's your job / role there? 
 
-### Frequency
+### Frequency  
+_**Frequency and Transaction with gov't can be asked in any order. What is their specific context?**_
+
 Have you logged into a government website in the past year?
 
 How many times? 
 
-Which ones?
+Which ones? Why?
 
 ### Transactions with gov't
 
-What was your last online interaction with the federal government? (if any)
+What was your last online interaction with the federal government? (if any) — 
 
 How did it go? What started it? 
 
@@ -54,21 +57,21 @@ Let's move on to looking at a service we're currently developing.
 
 MyUSA is an application we are currently designing to streamline the process of signing in to government websites.
 
-As an example of how MyUSA works, we are using BusinessUSA, which is a website that rounds up resources provided by the federal government to help small businesses. 
+To give you an example ofMyUSA works, we are using BusinessUSA, which is a website that rounds up resources provided by the federal government to help small businesses. 
 
-What we're going to do today is called a talk-aloud activity -- you say what you're thinking as you examine the page. 
+We're going to do today is called a talk-aloud activity -- I'd like to you say what you're thinking as you go through the pages.
 
-We're still working on it, so this is more like a Powerpoint online than it is a real website. Not all of it is interactive. 
+We're still working on it, so this is more like a Powerpoint online than it is a real website. Not all of it is interactive. You will likely click on things that don't work. That's ok.
 
 _Ask them to go to Invision liveshare link and sign in_  
 
 ### Front page of sample site
 
-So, let's pretend you've come to BusinessUSA looking for financing opportunities. You find a feature -- the access financing wizard -- that will help you find relevant opportunities for your business. 
+So, let's say you've come to BusinessUSA looking for financing opportunities. You find a feature -- the access financing wizard -- that will help you find relevant opportunities for your business. 
 
 What would you do next? 
 
-[If s/he wouldn't log in, ask them to log in]
+_[If s/he wouldn't log in, ask them to log in]_
 
 ### Choose how to log in? 
 
@@ -92,15 +95,18 @@ What would you do next?
 
 Why? 
 
-[See if s/he clicks the button.]
+[See if s/he clicks the button]
 
 ### Email
 
 What would you do next?
 
 ### Permissions 
+_**Can be asked in any order. Each person will navigate this differently, follow them.**_
 
 What's your first reaction? 
+
+What do you see first? 
 
 Is this what you expected?
 
@@ -118,13 +124,13 @@ Would you share your name?
 
 Why or why not?
 
-[See if they can find the toggle and what they think about entering the name changing the toggle]
+[See if they can find the toggle and what they think about entering the name, and the toggle yes / no]
 
 [They can either click toggle or try to type in a name -- both are success states]
 
 #### Task 3: State
 
-Pretend you live in CA and tell MyUSA that you live there.
+Say you live in CA and want to tell MyUSA that you live there.
 
 [Finding a specific line and clicking okay]
 
@@ -136,7 +142,7 @@ How'd that go?
 
 #### Complete
 
-So, okay, what would you do to finish up and log in?
+Great, let's say you're finished with this page. What would you do to finish up and log in?
 
 
 ## Conclusion
