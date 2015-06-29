@@ -2,7 +2,9 @@
 
 ## Pre-interview prep
 
-Right before the interview, start a Liveshare on the correct page. Then email that link to the interviewee during the interview. This is a painful hack but it's what we've got. I will happily take suggestions for a better way. 
+- [ ] *A couple days ahead of time,* figure out how you're doing to gain informed consent from the participant. There are a few options. For people inside the government, you can use this Google form: http://goo.gl/forms/36drKMoKDL. That doesn't always work for the public.  
+ 
+- [ ] *Right before the interview,* start a Liveshare on the correct page. Then email that link to the interviewee during the interview. This is a painful hack but it's what we've got. Other screensharing tools are often blocked for federal employees. I will happily take suggestions for a better way.
 
 ## Major activities
 1. Investigate their relationship with federal government sign on
@@ -20,9 +22,25 @@ As the email said, we're interested in improving how small businesses interact w
 
 We're having this conversation so that other people can learn from it, and so that we make a product that is really taking in consideration what potential users need. I want to be sure that I understand and respect your wishes for how I should treat what you tell me.
 
-1) I'd like to take notes (and share with my immediate team)
-2) 
-Is that ok with you?
+#### If you sent a consent form and received one back 
+Thanks for the consent form! Just to review, here's what you told me (_insert the options they chose here_). 
+
+#### If you sent the form and they forgot to deal with it
+Email them the Google shortlink above
+
+#### If they could not open the form and they are federal employees
+
+It's probably okay to read them this verbal consent. It's always better to get a written consent, but troubleshooting various security configurations on the fly is not the best use of their time. 
+
+1. I'd like to take notes (and share with my immediate team) :arrow_right: _If you want to audio or video ask about these too_ Is that okay with you?
+
+2. Is it okay if I share some quotes from those notes in a report that would be visible to the public? We will not use your name. 
+
+It is fine to answer to no to either or both of those questions. During the interview, you don't have to answer any of my questions, and it's fine to take a break or end the interview at any time. If you tell me anything that you want to keep private and you realize it at the end of the interview or even after we're done, just tell me and I'll delete it. 
+
+#### If they could not open the form and they are members of the public
+
+:explosion: Liz has a PDF that she will link here which should do the job. 
 
 _Does the participant have any questions about the consent?_
 
@@ -61,17 +79,17 @@ To give you an example ofMyUSA works, we are using BusinessUSA, which is a websi
 
 We're going to do today is called a talk-aloud activity -- I'd like to you say what you're thinking as you go through the pages.
 
-We're still working on it, so this is more like a Powerpoint online than it is a real website. Not all of it is interactive. You will likely click on things that don't work. That's ok.
+We're still working on it, so this is more like a Powerpoint online than it is a real website. Not all of it is interactive. You will likely click on things that don't work. That's ok. We'll tell you if that happens. 
 
-_Ask them to go to Invision liveshare link and sign in_  
+_Ask them to go to Invision liveshare link and sign in. Let them know that it might take a moment to load_  
 
 ### Front page of sample site
 
-So, let's say you've come to BusinessUSA looking for financing opportunities. You find a feature -- the access financing wizard -- that will help you find relevant opportunities for your business. 
+So, let's say you've come to BusinessUSA looking for financing opportunities. You find a page -- this page --  with the access financing wizard -- that will help you find relevant opportunities for your business. 
 
 What would you do next? 
 
-_[If s/he wouldn't log in, ask them to log in]_
+[If s/he wouldn't log in, ask them to log in anyway]
 
 ### Choose how to log in? 
 
@@ -102,6 +120,7 @@ Why?
 What would you do next?
 
 ### Permissions 
+
 _**Can be asked in any order. Each person will navigate this differently, follow them.**_
 
 What's your first reaction? 
@@ -144,10 +163,9 @@ How'd that go?
 
 Great, let's say you're finished with this page. What would you do to finish up and log in?
 
-
 ## Conclusion
 
-Anything else you want to say? Anything I should have asked about? 
+Anything else you want to say? Anything I should have asked about? Anything you'd like me to delete from my notes?
 
 Thanks so much for your time. 
 
