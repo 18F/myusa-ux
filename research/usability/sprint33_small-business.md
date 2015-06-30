@@ -18,9 +18,10 @@ We know that small business owners and employees may well be using MyUSA soon. T
 | | |
 | | How do US users who are **not** government employees react to signing in using sites that offer many services (e.g. Google)?|
 |Evaluate redesigned sign-in flow| Are we scaffolding practical consent?|Most participants notice the permissions| 
-| | |Most participants can edit permissions when asked |
+| | |Most participants can edit permissions when asked|
+| | |Most participants notice the permissions| 
+| | |Participants notice the why button and can restate the info it accesses in their own words|
 | | |Participants can explain the choices they would make, demonstrating accurate knowledge of the likely results|
-|Evaluate account management site IA (maybe) | Have we sufficiently explained what applications are? ||
 
 ## Intended outcomes
 * Immediate fixes for sign-in flow
@@ -34,6 +35,7 @@ Aiming for maximum variety in region and business type, but trying to focus on s
   * not in DC, NYC, or SF
   * through friends and family
     * right now: SF (1), Tucson (3), Chicago (1) 
+  * through posts to social media
   * [Blurb](https://github.com/18F/myusa/issues/596#issuecomment-95762044)
 
 ## Do interviews
@@ -48,4 +50,4 @@ Aiming for maximum variety in region and business type, but trying to focus on s
 # When are we doing it?
 * Sprint 33: planning and starting
 * Sprint 34: continuing interviews and analyzing (Liz OOO for most of the week)
-* Sprint 35: analyzing and discussing
+* Sprint 35: analyzing and discussing what we have, continuing to look for people
