@@ -1,14 +1,14 @@
 # Conversation guide
 
-## Pre-interview prep
+## Preparation
 
 - [ ] *A couple days ahead of time,* figure out how you're doing to gain informed consent from the participant. There are a few options. For people inside the government, you can use this Google form: http://goo.gl/forms/36drKMoKDL. That doesn't always work for the public.  
  
 - [ ] *Right before the interview,* start a Liveshare on the correct page. Then email that link to the interviewee during the interview. This is a painful hack but it's what we've got. Other screensharing tools are often blocked for federal employees. I will happily take suggestions for a better way.
 
 ## Major activities
-1. Investigate their relationship with federal government sign on
-2. Walk through our sign-in
+1. Discuss their relationship with federal government sign on
+2. Watch them walk through our sign-in
 
 ## Introduction
 
