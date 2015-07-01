@@ -20,15 +20,15 @@ This is why people use different emails for work and for home. Or different phon
 
 MyUSA needs to get its users consent before sharing their personal data with relying parties. What is meaningful consent? 
 
-1. informed: based on information presented in a way that makes sense to consenter
-2. effective: that is, consent that can alter the outcome of the interaction
-3. free: consent that is not extracted or coerced
+1. Informed: based on information presented in a way that makes sense to consenter
+2. Effective: that is, consent that can alter the outcome of the interaction
+3. Free: not extracted or coerced
 
-# [Act like a means to an end](#block)
-People encounter MyUSA while they're trying to get something else done, such as post on a forum or bookmark a document. MyUSA, as a sign-on system, is inevitably a hurdle standing between a person and what s/he wants to get done. 
+# [Be a gateway, not a barrier](#block)
+People encounter MyUSA while they're trying to get something else done, such as post on a forum or bookmark a document. MyUSA, as a sign-on system, is inevitably a hurdle standing between a person and what s/he wants to get done. We want to keep the hurdle low and easy to leap over.
 
-This has two main follow-ons
+This has three main follow-ons
 
-1. Don't slow people down unless it's necessary to preserving another principle.
-2. Show progress towards achieving the end goal
+1. Don't slow people down unless it's necessary to another principle.
+2. Always show progress towards achieving the end goal
 3. Keep people moving towards their end goal, even if it means sending them away from MyUSA.
