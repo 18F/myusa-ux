@@ -1,4 +1,4 @@
-# Script
+# Conversation guide
 
 ## Pre-interview prep
 
@@ -42,130 +42,77 @@ It is fine to answer to no to either or both of those questions. During the inte
 
 :explosion: Liz has a PDF that she will link here which should do the job. 
 
-_Does the participant have any questions about the consent?_
+_Check whether the participant has any questions or concerns about the consent_
 
-## Relationship with government sign-in
+## Relationship with federal websites and signing in
 
 ### About your business
 
-What does your business do?
+:arrow_right: Knowledge goals: Learn what the participant's business does and what s/he does there.
 
-What's your job / role there? 
+### Relationships with government
 
-### Frequency  
-_**Frequency and Transaction with gov't can be asked in any order. What is their specific context?**_
+:arrow_right: Knowledge goals: Learn how often participant logs into government websites, which ones s/he principally visits,  and the purpose of the visits. Follow-up on how the most recent ones progressed.
 
-Have you logged into a government website in the past year?
+_Phrase questions to fit the context of the participant's business and role. You'll probably ask slightly different questions, in a different order, each time._
 
-How many times? 
-
-Which ones? Why?
-
-### Transactions with gov't
-
-What was your last online interaction with the federal government? (if any) — 
-
-How did it go? What started it? 
-
-Is that typical, in your experience? 
-
-## Sign-in flow
+## Evaluating the sign-in flow
 
 Let's move on to looking at a service we're currently developing. 
 
 MyUSA is an application we are currently designing to streamline the process of signing in to government websites.
 
-To give you an example ofMyUSA works, we are using BusinessUSA, which is a website that rounds up resources provided by the federal government to help small businesses. 
+To give you an example of MyUSA works, we are using BusinessUSA, which is a website that rounds up resources provided by the federal government to help small businesses. 
 
-We're going to do today is called a talk-aloud activity -- I'd like to you say what you're thinking as you go through the pages.
+We're going to do today is called a talk-aloud activity -- I'd like to go through the pages and verbally describe what you're seeing, doing, and thinking. 
 
 We're still working on it, so this is more like a Powerpoint online than it is a real website. Not all of it is interactive. You will likely click on things that don't work. That's ok. We'll tell you if that happens. 
 
-_Ask them to go to Invision liveshare link and sign in. Let them know that it might take a moment to load_  
+_Ask them to go to Invision liveshare link and sign in. Let them know that it might take a moment to load_ 
 
-### Front page of sample site
+Here's a general scenario. So, let's say you've come to BusinessUSA looking for financing opportunities. You find a page -- this page --  with the access financing wizard -- that will help you find relevant opportunities for your business. 
 
-So, let's say you've come to BusinessUSA looking for financing opportunities. You find a page -- this page --  with the access financing wizard -- that will help you find relevant opportunities for your business. 
+:arrow_right: Knowledge goals: Describe their expectations for what each screen does, how it works, and what they would do next to accomplish their goals. Identify where their expectations have been violated (if at all), and why. Check whether they have any unanswered questions about what the service does and how it works. 
 
-What would you do next? 
+_Watch what each individual participant does and improvise specific questions based on what you observe._
 
-[If s/he wouldn't log in, ask them to log in anyway]
+_Depending on the circumstance, you might ask: "What would you do after {describe their previous action}?" or "What did you expect to happen when the {name page here} loaded?" or "Why did you say {repeat their words}?"_ 
 
-### Choose how to log in? 
+### Screens to test
+#### front page of sample site
+#### Choose how to log in? 
+#### Enter email 
+_Clarify that this is Liz's email, not the participant's_
+#### Almost there
+_Observe whether participant clicks the Ok close button_
+#### Email
+#### Permissions 
+:arrow_right: Knowledge goals for permissions page: Observe how they navigate the toggles and help text buttons. Probe more fully on any concerns about data sharing, particularly of PII.  
 
-What would you do next?
-
-How would you choose to log in? 
-
-[If not MyUSA, then ask to try out MyUSA]
-
-What would you expect to happen if you did that? 
-
-### Enter email
-
-So this is _Liz's_ email, not yours but you get the point...
-
-What would you do next? 
-
-### Almost there
-
-What would you do next? 
-
-Why? 
-
-[See if s/he clicks the button]
-
-### Email
-
-What would you do next?
-
-### Permissions 
-
-_**Can be asked in any order. Each person will navigate this differently, follow them.**_
-
-What's your first reaction? 
-
-What do you see first? 
-
-Is this what you expected?
-
-Do you have any questions? 
+_Prompt participants to use help text or click toggles if they do not do so on their own. Each person will navigate this differently, follow them._
 
 Now I'm going to ask you to do a few things for me. 
 
-#### Task 1: Tell me why we're asking for your email.
+##### Task 1: Tell me why we're asking for your email.
 
 [If they don't see the why button, you can spend a little time on letting them guess. _Then_ ask them to click the button and see what they say.] 
 
-#### Task 2: Let's say you wanted to send your name. How would you do that? 
-
-Would you share your name? 
-
-Why or why not?
-
-[See if they can find the toggle and what they think about entering the name, and the toggle yes / no]
+##### Task 2: Share your name with BusinessUSA.
 
 [They can either click toggle or try to type in a name -- both are success states]
 
-#### Task 3: State
+##### Task 3: Tell MyUSA that you live in CA.
 
-Say you live in CA and want to tell MyUSA that you live there.
+[Success state: finding a specific line and clicking okay]
 
-[Finding a specific line and clicking okay]
-
-How do you feel about doing that? 
-
-#### Task 4: Now do the same for being a veteran. 
-
-How'd that go? 
+##### Task 4: Now do the same for being a veteran. 
 
 #### Complete
-
-Great, let's say you're finished with this page. What would you do to finish up and log in?
+##### Task 5: Now finish the login. 
 
 ## Conclusion
 
-Anything else you want to say? Anything I should have asked about? Anything you'd like me to delete from my notes?
+:arrow_right: Knowledge goals: Make sure the participant has (a) said everything s/he wanted to say and (b) knows that you will delete anything from the notes at his/her request. 
 
 Thanks so much for your time. 
 
