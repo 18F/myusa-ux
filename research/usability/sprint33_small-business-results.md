@@ -28,7 +28,7 @@ We need to better communicate that
 >
 > _33-P01, privacy-defensive_
 
-#### New theme: why is any information optional?
+## New theme: why is any information optional?
 For convenience-optimizers, any optional information should be hidden behind a secondary call to action
 For privacy-defenders, it's not clear why we'd ask for _any_ information we don't need. 
 
@@ -67,3 +67,8 @@ This study had fewer participants than the 6 researchers usually aim for, and to
 
 However, the results broadly match those of previous studies carried out with participants from different backgrounds, so I have a bit more confidence in them than I usually would. The participants all fit into the categories established through previous research, for example. 
 
+
+# Data 
+For more data, check our [affinity clustering](http://mur.al/vXnZa4qx)
+
+<iframe frameborder="0" src="https://app.mural.ly/mural/gsa6/1435776388003/embed?b=0&amp;l=0&amp;r=0&amp;t=0" width="510px" height="315px"></iframe>
