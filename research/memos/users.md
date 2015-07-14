@@ -4,8 +4,9 @@ I want to start thinking about different ways that people approach the data-shar
 
 |&nbsp;|Action | Analysis |
 |:----------|:----------|:----------|
-|**Worried**| _Privacy defensive_ <br> "I didn't know what this was so I clicked cancel" | _Privacy conscious_ <br> "I find this help text reassuring" |
-|**Unconcerned**| _Convenience optimizing_ <br> "Whatever. Why do we have these checkboxes, anyway?" | _Authority deferential_ <br> "I wondered about those checkboxes, but this is for my job. I'll do it."|
+|**Defensive**| _Privacy defensive_ <br> "I didn't know what this was so I clicked cancel" | _Privacy conscious_ <br> "I find this help text reassuring" |
+|**Sensitive** |Convenience sensitive |Privacy sensitive|
+|**Unconcerned**| _Convenience defensive <br> "Whatever. Why do we have these checkboxes, anyway?" |  "I wondered about those checkboxes, but this is for my job. I'll do it."|
  
 
 ## Important variables
