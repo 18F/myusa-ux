@@ -2,6 +2,8 @@
 
 There is widespread mistrust of the entities that collect and share personal data, from commercial sites to the government. 
 
+This has some follow-ons: 
+
 1. Don't assume that first-time visitors believe that MyUSA is a government service
 2. Don't assume that users will believe the best of our intentions
 3. Engage visitors gradually. Ask for only the information that is needed, when it is needed. 
