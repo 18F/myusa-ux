@@ -6,7 +6,7 @@ There is widespread mistrust of the entities that collect and share personal dat
 2. Don't assume that users will believe the best of our intentions
 3. Engage visitors gradually. Ask for only the information that is needed, when it is needed. 
 
-# [Respect social boundaries](#context)
+# [Don't undermine boundaries](#context)
 
 People may have different roles in life: at work, with family, in a circle of friends, among various communities and social groups. Some people like a central place to manage all those roles. Other people want them to stay separate. Moreover, data that is accurate in one world (such as preferred mailing address) may not make sense in another.  
 
